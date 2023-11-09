@@ -85,8 +85,3 @@ This Repository includes applications that Require a Rooted Device (marked as su
 
 ### Browsers
 
-# Sources
-
-- [ ] [DroidSec](https://gitlab.com/stayfrostyx/opsecretumpraesidium/tree/master/DroidSec)
-
-- [ ] [Mobile Apps](https://enchiridion.red/2019/1/18/mobile-apps/)
