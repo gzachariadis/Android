@@ -62,9 +62,13 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 ### Online Messaging
 
-- [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 - [NekoX](https://github.com/NekoX-Dev/NekoX)
 - [Threema](https://threema.ch/en/home)
+
+#### Signal
+
+- [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
+- [Silence](https://silence.im/)
 
 ### Email
 
