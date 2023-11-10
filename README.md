@@ -8,6 +8,11 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 ### Device
 
+- [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
+
+- [Google Pixel Unlocked](https://www.google.com/search?q=google+pixel+unlocked&oq=google+pixel+unlocked&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCQgFEAAYExiABDIJCAYQABgTGIAEMgkIBxAAGBMYgAQyCQgIEAAYExiABDIJCAkQABgTGIAE0gEIMzc5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+ * With Microphones, Sensors, all cameras physically removed
 
 ### Operating System
 
