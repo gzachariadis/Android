@@ -83,15 +83,11 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - []()
 - []()
 
-### Meta-Data
+### Remove Meta-Data
 
 - [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
-- []()
-- []()
-- []()
-- []()
-- []()
-  
+- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser)
+
 ### Productivity
 
 - [Catima](https://catima.app/)
