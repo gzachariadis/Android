@@ -46,18 +46,29 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - []()
 - []()
 
-### Calling & Texting
+### Contacts
 
 - [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
+
+### Texting
+
 - [QKSMS](https://github.com/moezbhatti/qksms)
 
-### Communication
+### Online Messaging
 
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 - [NekoX](https://github.com/NekoX-Dev/NekoX)
 - [Threema](https://threema.ch/en/home)
+
+### Email
+
 - [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
-  
+
+### Keyboard
+
+- [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
+
+
 ### Music Player
 
 - [Timber Music Player](https://play.google.com/store/apps/details?id=naman14.timber&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
