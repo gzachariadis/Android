@@ -86,6 +86,7 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
 - [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
+- [Auxio](https://github.com/OxygenCobalt/Auxio)
 
 ### Podcasts
 
@@ -150,4 +151,9 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
 
 ### Browsers
+
+### Sources
+
+- [ ] [Remove Bloatware](https://www.androidsage.com/2022/04/11/remove-bloatware-uninstall-system-apps-from-any-android/)
+
 
