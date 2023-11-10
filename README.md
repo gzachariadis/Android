@@ -6,7 +6,7 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 # Categories
 
-### Device
+### Devices
 
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
 
@@ -42,7 +42,8 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
 - [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
-
+- [Camera Roll Android App](https://github.com/kollerlukas/Camera-Roll-Android-App)
+  
 ### Advertisement blocking
 
 - [AdAway](https://adaway.org/)
@@ -72,7 +73,8 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### Keyboard
 
 - [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
-
+- [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
+  
 ### Music Player
 
 - [Timber Music Player](https://play.google.com/store/apps/details?id=naman14.timber&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
@@ -114,7 +116,7 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 - [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/)
 - [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
-
+- [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
 ### Habit Tracker
 
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
@@ -122,6 +124,7 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### VPN
 
 - [Mullvad](https://mullvad.net/en)
+- [OpenVPN](https://github.com/schwabe/ics-openvpn)
 
 ### Blue-Light Screen Filter
 
@@ -135,6 +138,7 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### Maps
 
 - [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
+- [Transportr](https://github.com/grote/Transportr)
 
 ### Backup
 
