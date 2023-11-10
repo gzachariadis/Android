@@ -73,13 +73,13 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
 
-
 ### Music Player
 
 - [Timber Music Player](https://play.google.com/store/apps/details?id=naman14.timber&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - [Shuttle+ Music Player](https://play.google.com/store/apps/details?id=com.simplecity.amp_pro)
 - [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
+- [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
 
 ### Podcasts
 
@@ -114,6 +114,10 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 - [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/)
 - [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
+
+### Habit Tracker
+
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 
 ### VPN
 
