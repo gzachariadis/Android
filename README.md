@@ -23,11 +23,6 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [Aegis Authenticator](https://getaegis.app/)
 
-### Smart Watch
-
-- [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)
-- [FitoTrack](https://f-droid.org/en/packages/de.tadris.fitness/)
-  
 ### Application Store
 
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid)
@@ -48,13 +43,22 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [AdAway](https://adaway.org/)
 - [Blokada](https://github.com/blokadaorg/blokada)
-- []()
-- []()
-- []()
+
+### Tools
+
+- [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)
+- [IronVest](https://play.google.com/store/apps/details?id=com.abine.dnt)
+- [Privacy.com](https://play.google.com/store/apps/details?id=com.privacy.pay)
+- [Resilio Sync](https://play.google.com/store/apps/details?id=com.resilio.sync)
 
 ### Contacts
 
 - [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
+- [Koler](https://github.com/Chooloo/koler)
+
+### Phone Calling
+
+- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer)
 
 ### Texting
 
@@ -69,15 +73,18 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 - [Silence](https://silence.im/)
+- [Molly](https://github.com/mollyim/mollyim-android)
 
 ### Email
 
 - [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
-
+- [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+  
 ### Keyboard
 
 - [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
+- [Simple Keyboard](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
   
 ### Music Player
 
@@ -87,7 +94,13 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
 - [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
+- [Mucke](https://github.com/moritz-weber/mucke)
+- [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
+### Video Player
+
+- [Nova](https://github.com/nova-video-player/aos-AVP)
+  
 ### Podcasts
 
 - [AntennaPod](https://github.com/antennapod/AntennaPod)
@@ -97,8 +110,11 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### Launcher
 
 - [Lawnchair 2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN)
+- [Lawnchair 12.1](https://github.com/LawnchairLauncher/lawnchair/releases)
 - [Kvaesitso](https://kvaesitso.mm20.de/)
 - [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
+- [Olauncher](https://github.com/tanujnotes/Olauncher)
+- [Rootless Launcher](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher)
   
 ### Entertainment
 
@@ -144,7 +160,24 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### Maps
 
 - [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
+- [Street­Complete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/)
+
 - [Transportr](https://github.com/grote/Transportr)
+  
+### Sports Tracking
+
+- [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
+- [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)
+- [FitoTrack](https://f-droid.org/en/packages/de.tadris.fitness/)
+  
+### Password Manager
+
+- [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+
+### Notes
+
+- [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
+
 
 ### Backup
 
@@ -155,5 +188,18 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### Sources
 
 - [ ] [Remove Bloatware](https://www.androidsage.com/2022/04/11/remove-bloatware-uninstall-system-apps-from-any-android/)
-
-
+- [ ] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
+- [ ] [Android FOSS](https://github.com/offa/android-foss)
+- [ ] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
+- [ ] [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps)
+- [ ] [Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)
+- [ ] [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
+- [ ] [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
+- [ ] [Android Privacy Guide](https://github.com/nawthing/Android-privacy-guide)
+- [ ] [Awesome Privacy v2](https://github.com/paulaime/awesome-privacy)
+- [ ] [Android Privacy Setup](https://github.com/arimkevi/android-privacy)
+- [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
+- [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
+- [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+- [ ] [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [ ] [Awesome Privacy](https://github.com/Narayana108/awesome-privacy)
