@@ -6,7 +6,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 # Categories
 
-
 ### Devices
 
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
@@ -20,6 +19,13 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [LineageOS](https://lineageos.org/)
 - [GrapheneOS](https://grapheneos.org/)
 
+### Virtual SIM
+
+- [Online Sim](https://onlinesim.io/)
+- [SMSPVA](https://smspva.com/)
+- [VirtualSim](https://virtualsim.net/)
+- [Crypton](https://crypton.sh/)
+ 
 ### Two-Factor Authentication
 
 - [Aegis Authenticator](https://getaegis.app/)
