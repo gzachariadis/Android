@@ -115,7 +115,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Motion Eye](https://f-droid.org/en/packages/com.jairaj.janglegmail.motioneye/)
 - [Battery Tool](https://f-droid.org/en/packages/io.github.domi04151309.batterytool/)
 - [Fokus](https://github.com/icabetong/fokus-android)
-
+- [Gotify](https://f-droid.org/en/packages/com.github.gotify/)
 
 ### Local Share
 
