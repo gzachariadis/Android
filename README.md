@@ -64,6 +64,15 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [ProtonDNS](https://f-droid.org/en/packages/ch.protonvpn.android/)
 - [Audio Share](https://f-droid.org/en/packages/io.github.mkckr0.audio_share_app/)
 - [Seal](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader&hl=en&gl=US) or [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
+- [Audile](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
+- [You Have Mail](https://f-droid.org/en/packages/dev.lbeernaert.youhavemail/)
+- [Select Text to Search](https://f-droid.org/en/packages/me.zhanghai.android.textselectionwebsearch/)
+- [Filester](https://f-droid.org/en/packages/com.roozbehzarei.filester/)
+- [Data Monitor](https://f-droid.org/en/packages/com.drnoob.datamonitor/)
+- [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
+- [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/)
+- [Floccus](https://f-droid.org/en/packages/org.handmadeideas.floccus/)
+- [Thud](https://f-droid.org/en/packages/com.aerotoad.thud/)
 
 
 - [Audible](https://play.google.com/store/apps/details?id=com.audible.application&hl=en&gl=US)
@@ -132,9 +141,14 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### Podcasts
 
 - [AntennaPod](https://github.com/antennapod/AntennaPod)
-- []()
-- []()
 
+
+### Self-Hosted Music
+
+- [Ultrasonic](https://f-droid.org/en/packages/org.moire.ultrasonic/)
+- [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
+- [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
+  
 ### Launcher
 
 - [Lawnchair 2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN)
@@ -152,10 +166,14 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [WateryDroid](https://f-droid.org/en/packages/tmendes.com.waterydroid/)
 
-
 ### Recipes
 
 - [OpenRecipes](https://f-droid.org/en/packages/org.jschwab.openrecipes/)
+- [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/)
+
+### Online Storage
+
+[Infomaniak kDrive](https://f-droid.org/en/packages/com.infomaniak.drive/)
 
 
 ### Remove Meta-Data
@@ -236,8 +254,27 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
 
+## Social Media
 
+### Twitter
 
+- [Squawker](https://f-droid.org/en/packages/org.ca.squawker/)
+
+### Youtube
+
+- [Clipious](https://f-droid.org/en/packages/com.github.lamarios.clipious/)
+- [LibreTube](https://f-droid.org/en/packages/com.github.libretube/)
+- [Odysee](https://f-droid.org/en/packages/com.odysee.floss/)
+- [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+  
+### Spotify
+
+[Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
+
+### Reddit
+
+[Stealth](https://f-droid.org/en/packages/com.cosmos.unreddit/)
+[Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
 
 ### Browsers
 
