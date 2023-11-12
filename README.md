@@ -26,6 +26,7 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 ### Application Store
 
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid)
+- [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/)
 
 ### Camera
 
@@ -50,7 +51,34 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [IronVest](https://play.google.com/store/apps/details?id=com.abine.dnt)
 - [Privacy.com](https://play.google.com/store/apps/details?id=com.privacy.pay)
 - [Resilio Sync](https://play.google.com/store/apps/details?id=com.resilio.sync)
+- [Amarok](https://f-droid.org/en/packages/deltazero.amarok.foss/)
+- [Léon – The URL Cleaner](https://f-droid.org/en/packages/com.svenjacobs.app.leon/)
+- [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
+- [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
+- [Canta](https://f-droid.org/en/packages/org.samo_lego.canta/)
+- [SaverTuner](https://f-droid.org/en/packages/s1m.savertuner/)
+- [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
+- [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+- [Mute Reminder](https://f-droid.org/en/packages/com.github.muellerma.mute_reminder/)
+- [NextDNS Manager](https://f-droid.org/en/packages/com.doubleangels.nextdnsmanagement/)
+- [ProtonDNS](https://f-droid.org/en/packages/ch.protonvpn.android/)
+- [Audio Share](https://f-droid.org/en/packages/io.github.mkckr0.audio_share_app/)
+- [Seal](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader&hl=en&gl=US) or [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
 
+
+- [Audible](https://play.google.com/store/apps/details?id=com.audible.application&hl=en&gl=US)
+- [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
+- [Fulguris](https://play.google.com/store/apps/details?id=net.slions.fulguris.full.playstore&hl=en&gl=US)
+- [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
+- [Kobo](https://play.google.com/store/apps/details?id=com.kobobooks.android&hl=en&gl=US)
+- [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+- [UniFi](https://play.google.com/store/apps/details?id=com.ubnt.easyunifi&hl=en&gl=US)
+  
+### Local Share
+
+- [Snapdrop](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
+- [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/)
+  
 ### Contacts
 
 - [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
@@ -115,12 +143,20 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 - [Olauncher](https://github.com/tanujnotes/Olauncher)
 - [Rootless Launcher](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher)
-  
+- [UnLauncher](https://f-droid.org/en/packages/com.jkuester.unlauncher/)
+   
 ### Entertainment
 
 - [CloudStream](https://github.com/recloudstream/cloudstream)
-- []()
-- []()
+
+
+- [WateryDroid](https://f-droid.org/en/packages/tmendes.com.waterydroid/)
+
+
+### Recipes
+
+- [OpenRecipes](https://f-droid.org/en/packages/org.jschwab.openrecipes/)
+
 
 ### Remove Meta-Data
 
@@ -132,6 +168,15 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Catima](https://catima.app/)
 - [Text Fairy (OCR Text Scanner)](https://play.google.com/store/apps/details?id=com.renard.ocr)
 
+### Utilities
+
+- [Copy SMS Code](https://f-droid.org/en/packages/io.github.jd1378.otphelper/)
+- [SMS Import/Export](https://f-droid.org/en/packages/com.github.tmo1.sms_ie/)
+
+### Calculator
+
+- [OpenCalc](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+
 ### File Manager
 
 - [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
@@ -139,10 +184,16 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
 - [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
   
-### Habit Tracker
+### Habits & General Trackers
 
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
-
+- [Habits](https://f-droid.org/en/packages/com.willbsp.habits/)
+- [Track & Graph](https://f-droid.org/en/packages/com.samco.trackandgraph/)
+- [BetterCounter](https://f-droid.org/en/packages/org.kde.bettercounter/)
+- [Pedometer](https://f-droid.org/en/packages/org.secuso.privacyfriendlyactivitytracker/)
+- [Did I Take My Meds?](https://f-droid.org/en/packages/dev.corruptedark.diditakemymeds/)
+- [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
+ 
 ### VPN
 
 - [Mullvad](https://mullvad.net/en)
@@ -161,6 +212,9 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
 - [Street­Complete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/)
+- [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin.offline/)
+- [OSM Dashboard OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)
+
 
 - [Transportr](https://github.com/grote/Transportr)
   
@@ -178,10 +232,12 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
 
-
 ### Backup
 
 - [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
+
+
+
 
 ### Browsers
 
