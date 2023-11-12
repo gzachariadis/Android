@@ -179,7 +179,8 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Rootless Launcher](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher)
 - [UnLauncher](https://f-droid.org/en/packages/com.jkuester.unlauncher/)
 - [mLauncher](https://f-droid.org/en/packages/app.mlauncher/)
-  
+- [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
+
 ### Entertainment
 
 - [CloudStream](https://github.com/recloudstream/cloudstream)
@@ -325,5 +326,14 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
 - [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 - [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+- [ ] [What are the Top 5 Most Useful Apps Installed on Your Phone](https://www.reddit.com/r/androidapps/comments/110csra/what_are_the_top_5_most_useful_apps_installed_on/)
+- [ ] [1st 5 apps you'd recommend to install on a new Android Device](https://www.reddit.com/r/androidapps/comments/12g3ymo/1st_5_apps_youd_recommend_to_install_on_a_new/)
+- [ ] [What are some must-have apps that I should have on my phone?](https://www.reddit.com/r/androidapps/comments/tdqid5/what_are_some_musthave_apps_that_i_should_have_on/)
+- [ ] [Best apps of 2022](https://www.reddit.com/r/androidapps/comments/zz71py/best_apps_of_2022/)
 - [ ] [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [ ] [Awesome Privacy](https://github.com/Narayana108/awesome-privacy)
+- [ ] [Best apps of 2022](https://www.reddit.com/r/androidapps/comments/zz71py/best_apps_of_2022/)
+- [ ] [A list of useful apps I currently have.](https://www.reddit.com/r/androidapps/comments/x54c6l/a_list_of_useful_apps_i_currently_have/)
+- [ ] [What do you think are the best Android Apps that everybody should install?](https://www.reddit.com/r/androidapps/comments/164gehv/what_do_you_think_are_the_best_android_apps_that/)
+- [ ] [Which are the Best Apps to try in 2023?](https://www.reddit.com/r/androidapps/comments/105hc14/which_are_the_best_apps_to_try_in_2023/)
+- [ ] [Which Apps Have Improved Your Life?](https://www.reddit.com/r/androidapps/comments/11hzdju/which_apps_have_improved_your_life/)
