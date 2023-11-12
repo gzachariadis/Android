@@ -114,6 +114,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Food-E](https://f-droid.org/en/packages/app.suhasdissa.foode/)
 - [Motion Eye](https://f-droid.org/en/packages/com.jairaj.janglegmail.motioneye/)
 - [Battery Tool](https://f-droid.org/en/packages/io.github.domi04151309.batterytool/)
+- [Fokus](https://github.com/icabetong/fokus-android)
+
 
 ### Local Share
 
