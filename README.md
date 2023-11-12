@@ -33,7 +33,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/)
 - [Open Camera](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
-
+- [gCam](https://gcamapk.io/)
+  
 ### Photo Gallery
 
 - [Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
@@ -97,7 +98,22 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Mute Reminder](https://f-droid.org/en/packages/com.github.muellerma.mute_reminder/)
 - [ykDroid](https://f-droid.org/en/packages/net.pp3345.ykdroid/)
 - [Clipboard Cleaner](https://f-droid.org/en/packages/io.github.deweyreed.clipboardcleaner/)
-- 
+- [Libby](https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby)
+- [Transit](https://play.google.com/store/apps/details?id=com.thetransitapp.droid)
+- [Addons Detector](https://play.google.com/store/apps/details?id=com.denper.addonsdetector&hl=en&gl=US)
+- [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en_US)
+- [Revanced](https://revanced.app/)
+- [Instander](https://thedise.me/instander/)
+- [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla&hl=en&gl=US)
+- [LinkSheet](https://github.com/1fexd/LinkSheet)
+- [Smart AutoClicker](https://f-droid.org/en/packages/com.buzbuz.smartautoclicker/)
+- [Sayboard](https://f-droid.org/en/packages/com.elishaazaria.sayboard/)
+- [Coffee](https://f-droid.org/en/packages/com.github.muellerma.coffee/)
+- [PlainApp](https://f-droid.org/en/packages/com.ismartcoding.plain/)
+- [WiFi Widget](https://f-droid.org/en/packages/com.w2sv.wifiwidget/)
+- [Food-E](https://f-droid.org/en/packages/app.suhasdissa.foode/)
+- [Motion Eye](https://f-droid.org/en/packages/com.jairaj.janglegmail.motioneye/)
+- [Battery Tool](https://f-droid.org/en/packages/io.github.domi04151309.batterytool/)
 
 ### Local Share
 
@@ -116,6 +132,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 ### Texting
 
 - [QKSMS](https://github.com/moezbhatti/qksms)
+- [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
 
 ### Online Messaging
 
@@ -176,6 +193,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [UnLauncher](https://f-droid.org/en/packages/com.jkuester.unlauncher/)
 - [mLauncher](https://f-droid.org/en/packages/app.mlauncher/)
 - [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
+- [Kvaesitso](https://kvaesitso.mm20.de/)
 
 ### Entertainment
 
@@ -189,6 +207,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [OpenRecipes](https://f-droid.org/en/packages/org.jschwab.openrecipes/)
 - [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/)
 - [KitchenOwl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/)
+- [Recipe Keeper](https://play.google.com/store/apps/details?id=com.tudorspan.recipekeeper)
 
 ### Online Storage
 
@@ -304,6 +323,9 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 ### Browsers
 
+- [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+- [Thorium Browser](https://github.com/Alex313031/Thorium-Android)
+  
 ### Sources
 
 - [ ] [Remove Bloatware](https://www.androidsage.com/2022/04/11/remove-bloatware-uninstall-system-apps-from-any-android/)
