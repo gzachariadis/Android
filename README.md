@@ -337,3 +337,7 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [ ] [What do you think are the best Android Apps that everybody should install?](https://www.reddit.com/r/androidapps/comments/164gehv/what_do_you_think_are_the_best_android_apps_that/)
 - [ ] [Which are the Best Apps to try in 2023?](https://www.reddit.com/r/androidapps/comments/105hc14/which_are_the_best_apps_to_try_in_2023/)
 - [ ] [Which Apps Have Improved Your Life?](https://www.reddit.com/r/androidapps/comments/11hzdju/which_apps_have_improved_your_life/)
+- [ ] [Share your daily use apps](https://www.reddit.com/r/androidapps/comments/1365u3t/share_your_daily_use_apps/)
+- [ ] [Your Favorite, most used, most useful apps?](https://www.reddit.com/r/androidapps/comments/uipdya/your_favorite_most_used_most_useful_apps/)
+- [ ] [Which Android apps have you purchased and are worth every penny?](https://www.reddit.com/r/androidapps/comments/12tm8lw/which_android_apps_have_you_purchased_and_are/)
+- [ ] [What android apps you cannot live without?](https://www.reddit.com/r/androidapps/comments/y0b6jz/what_android_apps_you_cannot_live_without/)
