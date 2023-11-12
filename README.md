@@ -73,8 +73,12 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/)
 - [Floccus](https://f-droid.org/en/packages/org.handmadeideas.floccus/)
 - [Thud](https://f-droid.org/en/packages/com.aerotoad.thud/)
-
-
+- [SelfPrivacy](https://f-droid.org/en/packages/pro.kherel.selfprivacy/)
+- [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
+- [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+- [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
+- [Flutterhole](https://f-droid.org/en/packages/sterrenburg.github.flutterhole/)
+- [Superuser](https://f-droid.org/en/packages/me.phh.superuser/)
 - [Audible](https://play.google.com/store/apps/details?id=com.audible.application&hl=en&gl=US)
 - [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
 - [Fulguris](https://play.google.com/store/apps/details?id=net.slions.fulguris.full.playstore&hl=en&gl=US)
@@ -82,7 +86,23 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Kobo](https://play.google.com/store/apps/details?id=com.kobobooks.android&hl=en&gl=US)
 - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 - [UniFi](https://play.google.com/store/apps/details?id=com.ubnt.easyunifi&hl=en&gl=US)
-  
+- [DetoxDroid](https://f-droid.org/en/packages/com.flx_apps.digitaldetox/)
+- [OpenCalc](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+- [Sayboard](https://f-droid.org/en/packages/com.elishaazaria.sayboard/)
+- [Coffee](https://f-droid.org/en/packages/com.github.muellerma.coffee/)
+- [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
+- [PIN Mnemonics](https://f-droid.org/en/packages/org.secuso.privacyfriendlypin/)
+- [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
+- [SaveTuner](https://f-droid.org/en/packages/s1m.savertuner/)
+- [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
+- [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
+- [WiFi Widget](https://f-droid.org/en/packages/com.w2sv.wifiwidget/)
+- [SMS Gate](https://f-droid.org/en/packages/com.github.axet.smsgate/)
+- [Mute Reminder](https://f-droid.org/en/packages/com.github.muellerma.mute_reminder/)
+- [ykDroid](https://f-droid.org/en/packages/net.pp3345.ykdroid/)
+- [Clipboard Cleaner](https://f-droid.org/en/packages/io.github.deweyreed.clipboardcleaner/)
+- 
+
 ### Local Share
 
 - [Snapdrop](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
@@ -158,7 +178,8 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Olauncher](https://github.com/tanujnotes/Olauncher)
 - [Rootless Launcher](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher)
 - [UnLauncher](https://f-droid.org/en/packages/com.jkuester.unlauncher/)
-   
+- [mLauncher](https://f-droid.org/en/packages/app.mlauncher/)
+  
 ### Entertainment
 
 - [CloudStream](https://github.com/recloudstream/cloudstream)
@@ -170,11 +191,11 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 
 - [OpenRecipes](https://f-droid.org/en/packages/org.jschwab.openrecipes/)
 - [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/)
+- [KitchenOwl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/)
 
 ### Online Storage
 
 [Infomaniak kDrive](https://f-droid.org/en/packages/com.infomaniak.drive/)
-
 
 ### Remove Meta-Data
 
@@ -211,7 +232,12 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [Pedometer](https://f-droid.org/en/packages/org.secuso.privacyfriendlyactivitytracker/)
 - [Did I Take My Meds?](https://f-droid.org/en/packages/dev.corruptedark.diditakemymeds/)
 - [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
- 
+- [Table Habit](https://f-droid.org/en/packages/io.github.friesi23.mhabit/)
+- [Waistline](https://f-droid.org/en/packages/com.waist.line/)
+- [Broccoli](https://f-droid.org/en/packages/com.flauschcode.broccoli/)
+- [To Don't](https://f-droid.org/en/packages/rocks.poopjournal.todont/)
+- [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
+  
 ### VPN
 
 - [Mullvad](https://mullvad.net/en)
@@ -241,15 +267,20 @@ This is for personal use only. Don't expect frequrent updates, don't bother me w
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
 - [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)
 - [FitoTrack](https://f-droid.org/en/packages/de.tadris.fitness/)
-  
+- [Pedometer](https://f-droid.org/en/packages/org.secuso.privacyfriendlyactivitytracker/)
+
+- [Energize](https://f-droid.org/en/packages/com.flasskamp.energize/)
+
 ### Password Manager
 
 - [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+- [LibrePass](https://f-droid.org/en/packages/dev.medzik.librepass.android/)
 
 ### Notes
 
 - [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
-
+- [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
+  
 ### Backup
 
 - [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
