@@ -122,7 +122,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Battery Tool](https://f-droid.org/en/packages/io.github.domi04151309.batterytool/)
 - [Fokus](https://github.com/icabetong/fokus-android)
 - [Gotify](https://f-droid.org/en/packages/com.github.gotify/)
-
+- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
+  
 ### Local Share
 
 - [Snapdrop](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
@@ -403,3 +404,13 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [What paid apps are worth it?](https://www.reddit.com/r/androidapps/comments/xugzae/what_paid_apps_are_worth_it/)
 - [ ] [A List of some top Paid apps on Play Store](https://www.reddit.com/r/androidapps/comments/pgi3mm/a_list_of_some_top_paid_apps_on_play_store/)
 - [ ] [Best Reddit Android apps – Updated July 2023](https://www.androidheadlines.com/best-reddit-android-apps)
+- [ ] [The Complete Android Privacy & Security Guide: Your Best Protection! - YouTube](https://www.youtube.com/watch?v=dMWEym0KPcA)
+- [ ] [Essential Privacy: Cell Numbers and Email Aliases - YouTube](https://www.youtube.com/watch?v=m_xtR6n94ro)
+- [ ] [Every Android Setting in the Developer Options Explained! - YouTube](https://www.youtube.com/watch?v=JkV78G4UXDM)
+- [ ] [Ultimate smartphone security guide | How to secure your phone tutorial - YouTube](https://www.youtube.com/watch?v=m_SN1CB3Kts)
+- [ ] [Security Measures Every Android User Should Know - YouTube](https://www.youtube.com/watch?v=mlW6I5Kuj6c)
+- [ ] [How to protect privacy on your phone in 5 minutes | Tutorial for normies - YouTube](https://www.youtube.com/watch?v=tkY9dhOF2WU)
+- [ ] [How To Become Invisible Online - YouTube](https://www.youtube.com/watch?v=S4E4yAktjug)
+- [ ] [What are your favorite Android lifehacks / power user tips? ](https://www.reddit.com/r/Android/comments/xlxq1a/what_are_your_favorite_android_lifehacks_power/)
+- [ ] [First time Android user. Tips/tricks? Essential apps? ](https://www.reddit.com/r/androidapps/comments/9b84n1/first_time_android_user_tipstricks_essential_apps/)
+- [ ] 
