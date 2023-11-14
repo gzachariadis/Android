@@ -124,6 +124,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Gotify](https://f-droid.org/en/packages/com.github.gotify/)
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
 - [Safe Dot](https://github.com/kamaravichow/safe-dot-android)
+- [Aliucord](https://github.com/Aliucord/Aliucord)
   
 ### Local Share
 
