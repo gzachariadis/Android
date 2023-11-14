@@ -169,7 +169,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
   
 ### Music Player
 
-- [Shuttle+ Music Player](https://play.google.com/store/apps/details?id=com.simplecity.amp_pro)
 - [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
 - [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
