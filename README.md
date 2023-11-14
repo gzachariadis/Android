@@ -171,7 +171,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [Vinyl Music Player](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
-- [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [Mucke](https://github.com/moritz-weber/mucke)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole)
