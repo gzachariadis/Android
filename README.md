@@ -173,6 +173,14 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [Mucke](https://github.com/moritz-weber/mucke)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole)
+- [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
+- [Vibe You](https://f-droid.org/en/packages/app.suhasdissa.vibeyou/)
+- [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
+- [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
+- [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
+- [SimpMusic](https://f-droid.org/en/packages/com.maxrave.simpmusic/)
+- [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
+
 
 ### Video Player
 
