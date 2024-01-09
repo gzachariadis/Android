@@ -180,7 +180,10 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
 - [SimpMusic](https://f-droid.org/en/packages/com.maxrave.simpmusic/)
 - [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
-
+- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
+- [CloudPlayer](https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&pli=1)
+- [Poweramp Full Version](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock&pli=1)
+- [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
 
 ### Video Player
 
