@@ -377,7 +377,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 ### Sources
 
 - [ ] [Remove Bloatware](https://www.androidsage.com/2022/04/11/remove-bloatware-uninstall-system-apps-from-any-android/)
-- [ ] [What are the Top 5 Most Useful Apps Installed on Your Phone](https://www.reddit.com/r/androidapps/comments/110csra/what_are_the_top_5_most_useful_apps_installed_on/)
+- [x] [What are the Top 5 Most Useful Apps Installed on Your Phone](https://www.reddit.com/r/androidapps/comments/110csra/what_are_the_top_5_most_useful_apps_installed_on/)
 - [ ] [1st 5 apps you'd recommend to install on a new Android Device](https://www.reddit.com/r/androidapps/comments/12g3ymo/1st_5_apps_youd_recommend_to_install_on_a_new/)
 - [ ] [What are some must-have apps that I should have on my phone?](https://www.reddit.com/r/androidapps/comments/tdqid5/what_are_some_musthave_apps_that_i_should_have_on/)
 - [ ] [Best apps of 2022](https://www.reddit.com/r/androidapps/comments/zz71py/best_apps_of_2022/)
