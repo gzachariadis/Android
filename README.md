@@ -361,7 +361,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 - [ ] [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [ ] [Awesome Privacy](https://github.com/Narayana108/awesome-privacy)
-- [ ] [Best-FOSS-Apps-for-Android](https://github.com/piyushkumar-prog/Best-FOSS-Apps-for-Android)
+- [x] [Best-FOSS-Apps-for-Android](https://github.com/piyushkumar-prog/Best-FOSS-Apps-for-Android)
 - [ ] [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
 - [ ] [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security)
 - [ ] [awesome-android-security](https://github.com/NetKingJ/awesome-android-security)
