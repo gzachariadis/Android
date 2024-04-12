@@ -311,7 +311,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 ## Repositories
 
-- [ ] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
+- [x] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
 - [ ] [Android FOSS](https://github.com/offa/android-foss)
 - [ ] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
 - [ ] [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps)
