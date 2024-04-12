@@ -350,10 +350,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [x] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
 - [x] [Android FOSS](https://github.com/offa/android-foss)
-- [ ] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
-- [ ] [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps)
-- [ ] [Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)
-- [ ] [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
+- [x] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
+- [x] [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
 - [ ] [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [ ] [Android Privacy Guide](https://github.com/nawthing/Android-privacy-guide)
 - [ ] [Awesome Privacy v2](https://github.com/paulaime/awesome-privacy)
