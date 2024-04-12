@@ -79,9 +79,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [OpenCalc](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
 
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Application Store
 
@@ -345,6 +343,11 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Safe Dot](https://github.com/kamaravichow/safe-dot-android)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
+
+
+## Repositories
+
+- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 
 ### Sources
 
