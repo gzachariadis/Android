@@ -25,10 +25,11 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Monero SMS](https://monerosms.com/)
 - [ ] [SMSPva](https://smspva.com/)
 
-## Calling
+## Phone Calling
 
 - [ ] [Koler](https://github.com/Chooloo/koler)
 - [ ] [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer)
+- [ ] [Fossify Phone](https://github.com/FossifyOrg/Phone)
 
 ## Two-Factor Authentication
 
@@ -41,21 +42,25 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
 - [ ] [Camera Roll Android App](https://github.com/kollerlukas/Camera-Roll-Android-App)
 - [ ] [FossifyOrg Gallery](https://github.com/FossifyOrg/Gallery)
-
+- [ ] [Gallery](https://github.com/IacobIonut01/Gallery)
+      
 ## Browser
 
 - [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [ ] [Thorium Browser](https://github.com/Alex313031/Thorium-Android)
+- [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
 ## Contacts
 
 - [ ] [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 - [ ] [Koler](https://github.com/Chooloo/koler)
+- [ ] [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 
-## Texting
+## Text Messaging
 
-- [ ] [QKSMS](https://github.com/moezbhatti/qksms)
+- [ ] [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/)
 - [ ] [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
+- [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
 
 ## Keyboard
 
@@ -70,6 +75,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/)
 - [ ] [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
 - [ ] [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+- [ ] [AnExplorer](https://github.com/1hakr/AnExplorer)
+- [ ] [Fossify File Manager](https://github.com/FossifyOrg/File-Manager)
 
 ## Password Manager
 
@@ -78,6 +85,23 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 ## Calculator
 
 - [ ] [OpenCalc](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+
+## Calendar
+
+- [ ] [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+
+## Clock
+
+- [ ] [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
+- [ ] [Fossify Clock](https://github.com/FossifyOrg/Clock)
+
+### Firewall
+
+- [ ] [AFWall+](https://github.com/ukanth/afwall)
+- [ ] [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+- [ ] [NetGuard](https://netguard.me/)
+- [ ] [Karma Firewall](https://github.com/StarGW-net/karma-firewall)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,12 +137,15 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 - [Silence](https://silence.im/)
 - [My Sudo](https://mysudo.com/)
+- 
 
 ### Email
 
 - [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
 - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 - [k9Mail](https://k9mail.app/)
+- [Tutanota](https://github.com/tutao/tutanota)
+- [addy.io](https://gitlab.com/Stjin/anonaddy-android)
   
 ### Music Player
 
@@ -139,7 +166,16 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
 - [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic)
-
+- [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
+- [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
+- [Gramophone](https://github.com/AkaneTan/Gramophone)
+- [Harmony Music](https://github.com/anandnet/Harmony-Music)
+- [InnerTube](https://github.com/z-huang/InnerTune)
+- [Metro](https://github.com/MuntashirAkon/Metro)
+- [Odyssey](https://github.com/gateship-one/odyssey)
+- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+- [Spotube](https://github.com/KRTirtho/spotube)
+  
 ### Video Player
 
 - [Nova](https://github.com/nova-video-player/aos-AVP)
@@ -147,6 +183,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 ### Podcasts
 
 - [AntennaPod](https://github.com/antennapod/AntennaPod)
+- [Escapepod](https://codeberg.org/y20k/escapepod)
 
 ### Music
 
@@ -219,12 +256,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [Red Moon](https://github.com/LibreShift/red-moon)
 
-### Firewall
-
-- [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
-- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
-- [NetGuard](https://netguard.me/)
-
 ### Maps
 
 - [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
@@ -247,6 +278,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
 - [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
+- [Notes-Central](https://github.com/vidit135g/Notes-Central?tab=readme-ov-file)
+- [Notally](https://github.com/OmGodse/Notally)
   
 # Backup
 
@@ -257,6 +290,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 ## Twitter
 
 - [ ] [Squawker](https://f-droid.org/en/packages/org.ca.squawker/)
+- [ ] [Fritter](https://github.com/jonjomckay/fritter)
 
 ## Youtube
 
@@ -264,18 +298,28 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [LibreTube](https://f-droid.org/en/packages/com.github.libretube/)
 - [ ] [Odysee](https://f-droid.org/en/packages/com.odysee.floss/)
 - [ ] [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
-  
+- [ ] [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
+      
 ## Reddit
 
 - [ ] [Stealth](https://f-droid.org/en/packages/com.cosmos.unreddit/)
-- [ ] [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
+- [ ] [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [ ] [Jerboa](https://github.com/LemmyNet/jerboa)
 
 ### Tools
 
 - [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)
+- [Permission Tool](https://github.com/d4rken-org/permission-pilot)
+- [SUperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [Privacy.com](https://play.google.com/store/apps/details?id=com.privacy.pay)
 - [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
+
 - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+- [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
+
+- [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile)
+- [TranslateYou](https://github.com/you-apps/TranslateYou)
+- [Extirpater](https://gitlab.com/divested-mobile/extirpater)
 - [Audio Share](https://f-droid.org/en/packages/io.github.mkckr0.audio_share_app/)
 - [Seal](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader&hl=en&gl=US) or [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
 - [Audile](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
@@ -289,8 +333,10 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 - [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
 - [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
+- [Untracker](https://github.com/zhanghai/Untracker)
 
-- [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
+- [BinaryEye](https://github.com/markusfisch/BinaryEye)
+
 
 - [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
 - [Google Play Books](https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en_US)
@@ -312,7 +358,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 ## Repositories
 
 - [x] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
-- [ ] [Android FOSS](https://github.com/offa/android-foss)
+- [x] [Android FOSS](https://github.com/offa/android-foss)
 - [ ] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
 - [ ] [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps)
 - [ ] [Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)
