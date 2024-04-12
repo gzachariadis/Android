@@ -305,13 +305,11 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
   
 - [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
 
-## Repositories
-
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 
 <br> 
 
-## Tools
+## Repositories
 
 - [ ] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
 - [ ] [Android FOSS](https://github.com/offa/android-foss)
