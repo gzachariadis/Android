@@ -25,6 +25,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [SMSPVA](https://smspva.com/)
 - [VirtualSim](https://virtualsim.net/)
 - [Crypton](https://crypton.sh/)
+- [Monero SMS](https://monerosms.com/)
+- [SMSPva](https://smspva.com/)
  
 ### Two-Factor Authentication
 
@@ -34,19 +36,28 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid)
 - [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/)
+- [F-Droid](https://f-droid.org/)
+- [Accrescent](https://github.com/accrescent/accrescent)
+- [Obtainium](https://github.com/ImranR98/Obtainium)
 
 ### Camera
 
 - [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/)
 - [Open Camera](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
 - [gCam](https://gcamapk.io/)
-  
+
+### Calling
+
+- [Koler](https://github.com/Chooloo/koler)
+- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer)
+
 ### Photo Gallery
 
 - [Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
 - [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
 - [Camera Roll Android App](https://github.com/kollerlukas/Camera-Roll-Android-App)
+- [FossifyOrg Gallery](https://github.com/FossifyOrg/Gallery)
   
 ### Advertisement blocking
 
@@ -125,6 +136,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
 - [Safe Dot](https://github.com/kamaravichow/safe-dot-android)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
+- [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
   
 ### Local Share
 
@@ -136,10 +148,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 - [Koler](https://github.com/Chooloo/koler)
 
-### Phone Calling
-
-- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer)
-
 ### Texting
 
 - [QKSMS](https://github.com/moezbhatti/qksms)
@@ -149,24 +157,23 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [NekoX](https://github.com/NekoX-Dev/NekoX)
 - [Threema](https://threema.ch/en/home)
-
-#### Signal
-
+- [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 - [Silence](https://silence.im/)
-- [Molly](https://github.com/mollyim/mollyim-android)
 
 ### Email
 
 - [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
 - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+- [k9Mail](https://k9mail.app/)
   
 ### Keyboard
 
 - [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
-- [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
+- [AnySoftKeyboard](https://anysoftkeyboard.github.io/)
 - [Simple Keyboard](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
-  
+- [HeliBoard](https://github.com/Helium314/HeliBoard)
+
 ### Music Player
 
 - [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
@@ -184,6 +191,9 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [CloudPlayer](https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&pli=1)
 - [Poweramp Full Version](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock&pli=1)
 - [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
+- [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
+- [ViMusic](https://github.com/vfsfitvnm/ViMusic)
+- 
 
 ### Video Player
 
@@ -193,8 +203,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [AntennaPod](https://github.com/antennapod/AntennaPod)
 
-
-### Self-Hosted Music
+### Music
 
 - [Ultrasonic](https://f-droid.org/en/packages/org.moire.ultrasonic/)
 - [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
@@ -216,7 +225,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 ### Entertainment
 
 - [CloudStream](https://github.com/recloudstream/cloudstream)
-
 
 - [WateryDroid](https://f-droid.org/en/packages/tmendes.com.waterydroid/)
 
@@ -272,7 +280,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
   
 ### VPN
 
-- [Mullvad](https://mullvad.net/en)
 - [OpenVPN](https://github.com/schwabe/ics-openvpn)
 
 ### Blue-Light Screen Filter
@@ -283,6 +290,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+- [NetGuard](https://netguard.me/)
+- 
 
 ### Maps
 
@@ -290,9 +299,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Street­Complete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/)
 - [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin.offline/)
 - [OSM Dashboard OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)
-
-
 - [Transportr](https://github.com/grote/Transportr)
+- [Organic Maps](https://organicmaps.app/)
   
 ### Sports Tracking
 
@@ -305,9 +313,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 ### Password Manager
 
-- [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
-- [LibrePass](https://f-droid.org/en/packages/dev.medzik.librepass.android/)
-
+- [x] [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+  
 ### Notes
 
 - [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
