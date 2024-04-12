@@ -309,9 +309,10 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 
-### Sources
+<br> 
 
-- [ ] [Remove Bloatware](https://www.androidsage.com/2022/04/11/remove-bloatware-uninstall-system-apps-from-any-android/)
+## Tools
+
 - [ ] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
 - [ ] [Android FOSS](https://github.com/offa/android-foss)
 - [ ] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
@@ -325,12 +326,28 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
 - [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 - [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+- [ ] [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [ ] [Awesome Privacy](https://github.com/Narayana108/awesome-privacy)
+- [ ] [piyushkumar-prog/Best-FOSS-Apps-for-Android: Best Open Source apps for extreme online privacy.](https://github.com/piyushkumar-prog/Best-FOSS-Apps-for-Android)
+- [ ] [vaib25vicky/awesome-mobile-security: An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.](https://github.com/vaib25vicky/awesome-mobile-security)
+- [ ] [saeidshirazi/awesome-android-security: A curated list of Android Security materials and resources For Pentesters and Bug Hunters](https://github.com/saeidshirazi/awesome-android-security)
+- [ ] [NetKingJ/awesome-android-security: A Collection of Android (Samsung) Security Research References](https://github.com/NetKingJ/awesome-android-security)
+- [ ] [vaib25vicky/awesome-mobile-security: An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.](https://github.com/vaib25vicky/awesome-mobile-security)
+- [ ] [decalage2/awesome-security-hardening: A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening)
+- [ ] [FYI/Material/Android OS Phone Security Hardening Guide.pdf at main · iamthefrogy/FYI](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
+- [ ] [mission-impossible-android/mission-impossible-android: An attempt to streamline the Android hardening process from the Tor Blog.](https://github.com/mission-impossible-android/mission-impossible-android)
+- [ ] [tibbi/Android-Privacy-Data-Protection-Tools-Mega-Thread: work in process project](https://github.com/tibbi/Android-Privacy-Data-Protection-Tools-Mega-Thread)
+- [ ] [Ralireza/Android-Security-Teryaagh: Android security guides, roadmap, docs, courses, write-ups, and teryaagh.](https://github.com/Ralireza/Android-Security-Teryaagh)
+- [ ] [beerisgood/Mobile_Security: a collection of differently important stuff about mobile phones](https://github.com/beerisgood/Mobile_Security)
+
+      
+### Sources
+
+- [ ] [Remove Bloatware](https://www.androidsage.com/2022/04/11/remove-bloatware-uninstall-system-apps-from-any-android/)
 - [ ] [What are the Top 5 Most Useful Apps Installed on Your Phone](https://www.reddit.com/r/androidapps/comments/110csra/what_are_the_top_5_most_useful_apps_installed_on/)
 - [ ] [1st 5 apps you'd recommend to install on a new Android Device](https://www.reddit.com/r/androidapps/comments/12g3ymo/1st_5_apps_youd_recommend_to_install_on_a_new/)
 - [ ] [What are some must-have apps that I should have on my phone?](https://www.reddit.com/r/androidapps/comments/tdqid5/what_are_some_musthave_apps_that_i_should_have_on/)
 - [ ] [Best apps of 2022](https://www.reddit.com/r/androidapps/comments/zz71py/best_apps_of_2022/)
-- [ ] [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [ ] [Awesome Privacy](https://github.com/Narayana108/awesome-privacy)
 - [ ] [A list of useful apps I currently have.](https://www.reddit.com/r/androidapps/comments/x54c6l/a_list_of_useful_apps_i_currently_have/)
 - [ ] [What do you think are the best Android Apps that everybody should install?](https://www.reddit.com/r/androidapps/comments/164gehv/what_do_you_think_are_the_best_android_apps_that/)
 - [ ] [Which are the Best Apps to try in 2023?](https://www.reddit.com/r/androidapps/comments/105hc14/which_are_the_best_apps_to_try_in_2023/)
@@ -387,15 +404,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [How To Become Invisible Online - YouTube](https://www.youtube.com/watch?v=S4E4yAktjug)
 - [ ] [What are your favorite Android lifehacks / power user tips? ](https://www.reddit.com/r/Android/comments/xlxq1a/what_are_your_favorite_android_lifehacks_power/)
 - [ ] [First time Android user. Tips/tricks? Essential apps? ](https://www.reddit.com/r/androidapps/comments/9b84n1/first_time_android_user_tipstricks_essential_apps/)
-- [ ] [tibbi/Android-Privacy-Data-Protection-Tools-Mega-Thread: work in process project](https://github.com/tibbi/Android-Privacy-Data-Protection-Tools-Mega-Thread)
-- [ ] [Ralireza/Android-Security-Teryaagh: Android security guides, roadmap, docs, courses, write-ups, and teryaagh.](https://github.com/Ralireza/Android-Security-Teryaagh)
-- [ ] [0x192/universal-android-debloater: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.](https://github.com/0x192/universal-android-debloater)
-- [ ] [piyushkumar-prog/Best-FOSS-Apps-for-Android: Best Open Source apps for extreme online privacy.](https://github.com/piyushkumar-prog/Best-FOSS-Apps-for-Android)
-- [ ] [vaib25vicky/awesome-mobile-security: An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.](https://github.com/vaib25vicky/awesome-mobile-security)
-- [ ] [saeidshirazi/awesome-android-security: A curated list of Android Security materials and resources For Pentesters and Bug Hunters](https://github.com/saeidshirazi/awesome-android-security)
-- [ ] [NetKingJ/awesome-android-security: A Collection of Android (Samsung) Security Research References](https://github.com/NetKingJ/awesome-android-security)
-- [ ] [vaib25vicky/awesome-mobile-security: An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.](https://github.com/vaib25vicky/awesome-mobile-security)
-- [ ] [Android | Privacy Guides ](https://www.reddit.com/r/PrivacyGuides/comments/rkajh4/android_privacy_guides/)
+- [ ] [Android | Privacy Guides](https://www.reddit.com/r/PrivacyGuides/comments/rkajh4/android_privacy_guides/)
 - [ ] [Reddit - Dive into anything](https://www.reddit.com/r/Android/comments/1wihj8/the_redditors_guide_to_android_privacy_and_other/)
 - [ ] [Android Security Question Newbie here to android been a lifetime iPhone user any tips on making a Samsung phone as safe as possible? ](https://www.reddit.com/r/privacy/comments/sew28b/android_security_question_newbie_here_to_android/)
 - [ ] [I made an simple & comprehensive guide to Android Privacy! ](https://www.reddit.com/r/Android/comments/92b2eg/i_made_an_simple_comprehensive_guide_to_android/)
@@ -425,9 +434,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Android Users: Your Guide to Security and Privacy - INVISUS](https://www.invisus.com/resources/android-users-your-guide-to-security-and-privacy/)
 - [ ] [Guide to Accessing Your Android Device’s Security & Privacy Settings | New Jersey Cybersecurity & Communications Integration Cell](https://www.cyber.nj.gov/instructional-guides/the-njccics-guide-to-accessing-your-devices-security-privacy-settings)
 - [ ] [A clear-eyed guide to Android's actual security risks | InfoWorld](https://www.infoworld.com/article/2609338/a-clear-eyed-guide-to-android-s-actual-security-risks.html)
-- [ ] [decalage2/awesome-security-hardening: A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening)
-- [ ] [FYI/Material/Android OS Phone Security Hardening Guide.pdf at main · iamthefrogy/FYI](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
-- [ ] [mission-impossible-android/mission-impossible-android: An attempt to streamline the Android hardening process from the Tor Blog.](https://github.com/mission-impossible-android/mission-impossible-android)
 - [ ] [Android | Madaidan's Insecurities](https://madaidans-insecurities.github.io/android.html)
 - [ ] [How do you 'harden' your Android? ](https://www.reddit.com/r/privacytoolsIO/comments/ps8d2t/how_do_you_harden_your_android/)
 - [ ] [Android Hardening Guide ](https://www.reddit.com/r/InfoSecWriteups/comments/xoieka/android_hardening_guide/)
@@ -440,4 +446,4 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Creating a Network Hardening guide ](https://www.reddit.com/r/hacking/comments/711jf2/creating_a_network_hardening_guide/)
 - [ ] [LineageOS or hardened, debloated stock Android? ](https://www.reddit.com/r/PrivacyGuides/comments/xsgfa1/lineageos_or_hardened_debloated_stock_android/)
 - [ ] [Anonymity Guide ](https://www.reddit.com/r/hacking/comments/15zcn7f/anonymity_guide/)
-- [ ] [beerisgood/Mobile_Security: a collection of differently important stuff about mobile phones](https://github.com/beerisgood/Mobile_Security)
+
