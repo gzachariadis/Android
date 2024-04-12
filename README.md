@@ -95,13 +95,50 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
 - [ ] [Fossify Clock](https://github.com/FossifyOrg/Clock)
 
-### Firewall
+## Firewall
 
 - [ ] [AFWall+](https://github.com/ukanth/afwall)
 - [ ] [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
 - [ ] [NetGuard](https://netguard.me/)
 - [ ] [Karma Firewall](https://github.com/StarGW-net/karma-firewall)
 
+## Books
+
+- [ ] [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
+- [ ] [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+
+## Podcasts
+
+- [ ] [AntennaPod](https://github.com/antennapod/AntennaPod)
+- [ ] [Escapepod](https://codeberg.org/y20k/escapepod)
+
+## Music Player
+
+- [ ] [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
+- [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
+- [ ] [Mucke](https://github.com/moritz-weber/mucke)
+- [ ] [BlackHole](https://github.com/Sangwan5688/BlackHole)
+- [ ] [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
+- [ ] [Vibe You](https://f-droid.org/en/packages/app.suhasdissa.vibeyou/)
+- [ ] [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
+- [ ] [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
+- [ ] [SimpMusic](https://f-droid.org/en/packages/com.maxrave.simpmusic/)
+- [ ] [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
+- [ ] [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
+- [ ] [CloudPlayer](https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&pli=1)
+- [ ] [Poweramp Full Version](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock&pli=1)
+- [ ] [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
+- [ ] [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
+- [ ] [ViMusic](https://github.com/vfsfitvnm/ViMusic)
+- [ ] [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
+- [ ] [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
+- [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
+- [ ] [Harmony Music](https://github.com/anandnet/Harmony-Music)
+- [ ] [InnerTube](https://github.com/z-huang/InnerTune)
+- [ ] [Metro](https://github.com/MuntashirAkon/Metro)
+- [ ] [Odyssey](https://github.com/gateship-one/odyssey)
+- [ ] [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+- [ ] [Spotube](https://github.com/KRTirtho/spotube)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,7 +150,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Accrescent](https://github.com/accrescent/accrescent)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
 
-### Camera
+## Camera
 
 - [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/)
 - [Open Camera](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
@@ -137,7 +174,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 - [Silence](https://silence.im/)
 - [My Sudo](https://mysudo.com/)
-- 
 
 ### Email
 
@@ -147,47 +183,12 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Tutanota](https://github.com/tutao/tutanota)
 - [addy.io](https://gitlab.com/Stjin/anonaddy-android)
   
-### Music Player
-
-- [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
-- [Auxio](https://github.com/OxygenCobalt/Auxio)
-- [Mucke](https://github.com/moritz-weber/mucke)
-- [BlackHole](https://github.com/Sangwan5688/BlackHole)
-- [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
-- [Vibe You](https://f-droid.org/en/packages/app.suhasdissa.vibeyou/)
-- [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
-- [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
-- [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
-- [SimpMusic](https://f-droid.org/en/packages/com.maxrave.simpmusic/)
-- [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
-- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
-- [CloudPlayer](https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&pli=1)
-- [Poweramp Full Version](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock&pli=1)
-- [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
-- [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
-- [ViMusic](https://github.com/vfsfitvnm/ViMusic)
-- [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
-- [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
-- [Gramophone](https://github.com/AkaneTan/Gramophone)
-- [Harmony Music](https://github.com/anandnet/Harmony-Music)
-- [InnerTube](https://github.com/z-huang/InnerTune)
-- [Metro](https://github.com/MuntashirAkon/Metro)
-- [Odyssey](https://github.com/gateship-one/odyssey)
-- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-- [Spotube](https://github.com/KRTirtho/spotube)
-  
 ### Video Player
 
 - [Nova](https://github.com/nova-video-player/aos-AVP)
   
-### Podcasts
+### Self-Host Client Apps
 
-- [AntennaPod](https://github.com/antennapod/AntennaPod)
-- [Escapepod](https://codeberg.org/y20k/escapepod)
-
-### Music
-
-- [Ultrasonic](https://f-droid.org/en/packages/org.moire.ultrasonic/)
 - [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
 - [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
   
@@ -264,6 +265,11 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [OSM Dashboard OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)
 - [Transportr](https://github.com/grote/Transportr)
 - [Organic Maps](https://organicmaps.app/)
+
+### Translate
+
+- [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile)
+- [TranslateYou](https://github.com/you-apps/TranslateYou)
   
 ### Sports Tracking
 
@@ -271,7 +277,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)
 - [FitoTrack](https://f-droid.org/en/packages/de.tadris.fitness/)
 - [Pedometer](https://f-droid.org/en/packages/org.secuso.privacyfriendlyactivitytracker/)
-
 - [Energize](https://f-droid.org/en/packages/com.flasskamp.energize/)
 
 ### Notes
@@ -306,19 +311,19 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [ ] [Jerboa](https://github.com/LemmyNet/jerboa)
 
-### Tools
+## Discord
+
+- [ ] [Aliucord](https://github.com/Aliucord/Aliucord)
+
+# Tools
 
 - [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)
 - [Permission Tool](https://github.com/d4rken-org/permission-pilot)
-- [SUperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
+- [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [Privacy.com](https://play.google.com/store/apps/details?id=com.privacy.pay)
 - [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
-
 - [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
 - [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
-
-- [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile)
-- [TranslateYou](https://github.com/you-apps/TranslateYou)
 - [Extirpater](https://gitlab.com/divested-mobile/extirpater)
 - [Audio Share](https://f-droid.org/en/packages/io.github.mkckr0.audio_share_app/)
 - [Seal](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader&hl=en&gl=US) or [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
@@ -328,29 +333,15 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
 - [Superuser](https://f-droid.org/en/packages/me.phh.superuser/)
 - [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
-- [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
-- [Kobo](https://play.google.com/store/apps/details?id=com.kobobooks.android&hl=en&gl=US)
-- [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 - [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
 - [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
 - [Untracker](https://github.com/zhanghai/Untracker)
-
 - [BinaryEye](https://github.com/markusfisch/BinaryEye)
-
-
 - [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
-- [Google Play Books](https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en_US)
-
 - [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla&hl=en&gl=US)
-  
 - [Motion Eye](https://f-droid.org/en/packages/com.jairaj.janglegmail.motioneye/)
-
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
-
-- [Aliucord](https://github.com/Aliucord/Aliucord)
-  
 - [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
-
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 
 <br> 
