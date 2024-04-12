@@ -160,6 +160,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 - [Silence](https://silence.im/)
+- [My Sudo](https://mysudo.com/)
 
 ### Email
 
