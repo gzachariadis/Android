@@ -64,6 +64,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/)
 - [ ] [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
 - [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
+- [ ] [Silence](https://silence.im/)
 
 #### Keyboard
 
@@ -191,7 +192,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Application Store
+#### Application Store
 
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid)
 - [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/)
@@ -199,32 +200,24 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Accrescent](https://github.com/accrescent/accrescent)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
 
-## Camera
-
-- [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/)
-- [Open Camera](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
-- [gCam](https://gcamapk.io/)
-
-### Advertisement blocking
+#### Advertisement blocking
 
 - [AdAway](https://adaway.org/)
 - [Blokada](https://github.com/blokadaorg/blokada)
 
-### Local Share
+#### Local Share
 
 - [Snapdrop](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
 - [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/)
   
-### Online Messaging
+#### Online Messaging
 
-- [NekoX](https://github.com/NekoX-Dev/NekoX)
 - [Threema](https://threema.ch/en/home)
 - [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
-- [Silence](https://silence.im/)
 - [My Sudo](https://mysudo.com/)
 
-### Email
+#### Email
 
 - [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
 - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
@@ -233,44 +226,39 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [addy.io](https://gitlab.com/Stjin/anonaddy-android)
 - [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
 
-### Video Player
+#### Video Player
 
 - [Nova](https://github.com/nova-video-player/aos-AVP)
   
-### Self-Host Client Apps
+#### Self-Host Client Apps
 
 - [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
 - [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
   
-### Launcher
+#### Launcher
 
 - [Lawnchair 2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN)
-- [Lawnchair 12.1](https://github.com/LawnchairLauncher/lawnchair/releases)
-- [Kvaesitso](https://kvaesitso.mm20.de/)
 - [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 - [Olauncher](https://github.com/tanujnotes/Olauncher)
-- [Rootless Launcher](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher)
 - [UnLauncher](https://f-droid.org/en/packages/com.jkuester.unlauncher/)
 - [mLauncher](https://f-droid.org/en/packages/app.mlauncher/)
 - [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
-- [Kvaesitso](https://kvaesitso.mm20.de/)
 
-### Entertainment
+#### Entertainment
 
 - [CloudStream](https://github.com/recloudstream/cloudstream)
-- [WateryDroid](https://f-droid.org/en/packages/tmendes.com.waterydroid/)
 
-# Online Storage
+#### Online Storage
 
 - [Infomaniak kDrive](https://f-droid.org/en/packages/com.infomaniak.drive/)
 
-# Remove Image Meta-Data
+#### Remove Image Meta-Data
 
 - [ ] [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 - [ ] [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser)
 - [ ] [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
 
-### Habits & General Trackers
+#### Habits & General Trackers
 
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Habits](https://f-droid.org/en/packages/com.willbsp.habits/)
@@ -283,23 +271,23 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [To Don't](https://f-droid.org/en/packages/rocks.poopjournal.todont/)
 - [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
   
-### Blue-Light Screen Filter
+#### Blue-Light Screen Filter
 
 - [Red Moon](https://github.com/LibreShift/red-moon)
 
-### Translate
+#### Translate
 
 - [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile)
 - [TranslateYou](https://github.com/you-apps/TranslateYou)
   
-### Notes
+#### Notes
 
 - [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
 - [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
 - [Notes-Central](https://github.com/vidit135g/Notes-Central?tab=readme-ov-file)
 - [Notally](https://github.com/OmGodse/Notally)
   
-## Backup
+#### Backup
 
 - [ ] [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
 
