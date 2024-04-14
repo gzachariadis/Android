@@ -190,8 +190,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [x] [WIreGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 #### Application Store
 
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid)
@@ -199,6 +197,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [F-Droid](https://f-droid.org/)
 - [Accrescent](https://github.com/accrescent/accrescent)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Advertisement blocking
 
@@ -215,7 +215,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [Threema](https://threema.ch/en/home)
 - [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
 - [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
-- [My Sudo](https://mysudo.com/)
 
 #### Email
 
