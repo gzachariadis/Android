@@ -343,8 +343,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 # Random Apps
 
 - [ ] [Catima](https://catima.app/)
-- [ ] [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla&hl=en&gl=US)
-- [ ] [Motion Eye](https://f-droid.org/en/packages/com.jairaj.janglegmail.motioneye/)
 - [ ] [LABD - Local ADB Shell](https://play.google.com/store/apps/details?id=com.draco.ladb)
 
 #### Copy SMS Codes
