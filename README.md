@@ -132,7 +132,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [ ] [Mucke](https://github.com/moritz-weber/mucke)
-- [ ] [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
 - [ ] [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
 - [ ] [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
 - [ ] [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
@@ -252,7 +251,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [ ] [InnerTube](https://github.com/z-huang/InnerTune)
 - [ ] [Spotube](https://github.com/KRTirtho/spotube)
-
+- [ ] [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
+      
 #### Online Storage
 
 - [Infomaniak kDrive](https://f-droid.org/en/packages/com.infomaniak.drive/)
