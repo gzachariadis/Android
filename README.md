@@ -50,7 +50,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Thorium Browser](https://github.com/Alex313031/Thorium-Android)
 - [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
-#### Contacts
+#### Contacts Management
 
 - [ ] [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 - [ ] [Koler](https://github.com/Chooloo/koler)
@@ -157,6 +157,10 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Transportr](https://github.com/grote/Transportr)
 - [ ] [Organic Maps](https://organicmaps.app/)
 
+### Virtual Private Network (VPN)
+
+- [x] [WIreGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Application Store
@@ -237,8 +241,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser)
 - [ ] [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
 
-
-
 ### Habits & General Trackers
 
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
@@ -252,11 +254,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [To Don't](https://f-droid.org/en/packages/rocks.poopjournal.todont/)
 - [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
   
-### VPN
-
-- [OpenVPN](https://github.com/schwabe/ics-openvpn)
-- [WIreGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)
-
 ### Blue-Light Screen Filter
 
 - [Red Moon](https://github.com/LibreShift/red-moon)
@@ -277,7 +274,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
 
-## Social Media
+# Social Media
 
 #### Twitter
 
@@ -298,16 +295,34 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [Instagram]()
 
-## Tools
+# Tools
 
 #### Antivirus & Malware Scanners
 
 - [ ] [Hypatia](https://f-droid.org/en/packages/us.spotco.malwarescanner/)
 
-#### Maintenance
+#### Time Limit
+
+- [ ] [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
+
+#### Security
+
+- [ ] [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
+- [ ] [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+- [ ] [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
+
+
+# Maintenance
+
+#### Free-Space Eraser
 
 - [ ] [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
-- [ ] 
+- [ ] [Extirpater](https://gitlab.com/divested-mobile/extirpater)
+
+#### Application Permissions
+
+- [ ] [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission) 
+- [ ] [Permission Tool](https://github.com/d4rken-org/permission-pilot)
 
 #### Syncing
 
@@ -315,16 +330,13 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Syncthing Fork](https://github.com/Catfriend1/syncthing-android)
 - [ ] 
 
-- [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)
-- [Permission Tool](https://github.com/d4rken-org/permission-pilot)
-- [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
-- [Privacy.com](https://play.google.com/store/apps/details?id=com.privacy.pay)
-- [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
-- [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
-- [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
-- [Extirpater](https://gitlab.com/divested-mobile/extirpater)
+
+
+
 - [Audio Share](https://f-droid.org/en/packages/io.github.mkckr0.audio_share_app/)
-- [Seal](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader&hl=en&gl=US) or [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
+
+
+
 - [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
 - [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
 - [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
