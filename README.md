@@ -34,6 +34,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 #### Two-Factor Authentication
 
 - [x] [Aegis Authenticator](https://getaegis.app/)
+- [ ] [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
+- [ ] [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
 
 #### Photo Gallery
 
@@ -55,6 +57,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 - [ ] [Koler](https://github.com/Chooloo/koler)
 - [ ] [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+- [ ] [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
 
 #### Text Messaging
 
@@ -101,6 +104,10 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
 - [ ] [NetGuard](https://netguard.me/)
 - [ ] [Karma Firewall](https://github.com/StarGW-net/karma-firewall)
+
+#### Debloat
+
+- [ ] [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 
 #### Books
 
@@ -157,7 +164,28 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Transportr](https://github.com/grote/Transportr)
 - [ ] [Organic Maps](https://organicmaps.app/)
 
-### Virtual Private Network (VPN)
+# Security
+
+#### Background Activities
+
+- [ ] [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
+- [ ] [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
+
+#### Application Trackers
+
+- [ ] [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
+- [ ] [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
+
+#### Work Profile
+
+- [ ] [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+- [ ] [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
+
+#### Application Managers
+
+- [ ] [App Manager](https://github.com/MuntashirAkon/AppManager)
+
+#### Virtual Private Network (VPN)
 
 - [x] [WIreGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)
 
@@ -203,7 +231,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [k9Mail](https://k9mail.app/)
 - [Tutanota](https://github.com/tutao/tutanota)
 - [addy.io](https://gitlab.com/Stjin/anonaddy-android)
-  
+- [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
+
 ### Video Player
 
 - [Nova](https://github.com/nova-video-player/aos-AVP)
@@ -305,13 +334,15 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
 
-#### Security
+#### Notification Management
 
-- [ ] [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
-- [ ] [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
-- [ ] [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
+- [ ] [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
 
+### URL Cleaners
 
+- [ ] [Untracker](https://github.com/zhanghai/Untracker)
+- [ ] [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker&hl=en&gl=US)
+  
 # Maintenance
 
 #### Free-Space Eraser
@@ -328,37 +359,18 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [Folder-Sync](https://foldersync.io/)
 - [ ] [Syncthing Fork](https://github.com/Catfriend1/syncthing-android)
-- [ ] 
 
+# Random Apps
 
+- [ ] [Catima](https://catima.app/)
+- [ ] [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla&hl=en&gl=US)
+- [ ] [Motion Eye](https://f-droid.org/en/packages/com.jairaj.janglegmail.motioneye/)
+- [ ] [LABD - Local ADB Shell](https://play.google.com/store/apps/details?id=com.draco.ladb)
 
+#### Copy SMS Codes
 
-- [Audio Share](https://f-droid.org/en/packages/io.github.mkckr0.audio_share_app/)
+- [ ] [Copy SMS Code](https://f-droid.org/en/packages/io.github.jd1378.otphelper/)
 
-
-
-- [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
-- [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
-- [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
-- [Superuser](https://f-droid.org/en/packages/me.phh.superuser/)
-- [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
-- [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
-- [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
-- [Untracker](https://github.com/zhanghai/Untracker)
-- [BinaryEye](https://github.com/markusfisch/BinaryEye)
-- [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
-- [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla&hl=en&gl=US)
-- [Motion Eye](https://f-droid.org/en/packages/com.jairaj.janglegmail.motioneye/)
-- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
-- [Catima](https://catima.app/)
-- [Text Fairy (OCR Text Scanner)](https://play.google.com/store/apps/details?id=com.renard.ocr)
-- [Copy SMS Code](https://f-droid.org/en/packages/io.github.jd1378.otphelper/)
-- [SMS Import/Export](https://f-droid.org/en/packages/com.github.tmo1.sms_ie/)
-- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
-- [LABD - Local ADB Shell](https://play.google.com/store/apps/details?id=com.draco.ladb)
-- [App Manager](https://github.com/MuntashirAkon/AppManager)
-- [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker&hl=en&gl=US)
-  
 <br> 
 
 ## Repositories
