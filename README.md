@@ -73,6 +73,13 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Simple Keyboard](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
 - [ ] [HeliBoard](https://github.com/Helium314/HeliBoard)
 
+#### Notes
+
+- [ ] [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
+- [ ] [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
+- [ ] [Notes-Central](https://github.com/vidit135g/Notes-Central?tab=readme-ov-file)
+- [ ] [Notally](https://github.com/OmGodse/Notally)
+
 #### File Manager
 
 - [ ] [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
@@ -259,15 +266,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 #### Habits & General Trackers
 
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
-- [Habits](https://f-droid.org/en/packages/com.willbsp.habits/)
-- [Track & Graph](https://f-droid.org/en/packages/com.samco.trackandgraph/)
-- [BetterCounter](https://f-droid.org/en/packages/org.kde.bettercounter/)
-- [Did I Take My Meds?](https://f-droid.org/en/packages/dev.corruptedark.diditakemymeds/)
 - [Table Habit](https://f-droid.org/en/packages/io.github.friesi23.mhabit/)
-- [Waistline](https://f-droid.org/en/packages/com.waist.line/)
 - [Broccoli](https://f-droid.org/en/packages/com.flauschcode.broccoli/)
-- [To Don't](https://f-droid.org/en/packages/rocks.poopjournal.todont/)
 - [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
   
 #### Blue-Light Screen Filter
@@ -278,13 +278,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile)
 - [TranslateYou](https://github.com/you-apps/TranslateYou)
-  
-#### Notes
-
-- [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
-- [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
-- [Notes-Central](https://github.com/vidit135g/Notes-Central?tab=readme-ov-file)
-- [Notally](https://github.com/OmGodse/Notally)
   
 #### Backup
 
