@@ -132,28 +132,21 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [ ] [Mucke](https://github.com/moritz-weber/mucke)
-- [ ] [BlackHole](https://github.com/Sangwan5688/BlackHole)
 - [ ] [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
-- [ ] [Vibe You](https://f-droid.org/en/packages/app.suhasdissa.vibeyou/)
-- [ ] [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
-- [ ] [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
-- [ ] [SimpMusic](https://f-droid.org/en/packages/com.maxrave.simpmusic/)
 - [ ] [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
 - [ ] [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
-- [ ] [CloudPlayer](https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&pli=1)
-- [ ] [Poweramp Full Version](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock&pli=1)
+
+
 - [ ] [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
-- [ ] [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
-- [ ] [ViMusic](https://github.com/vfsfitvnm/ViMusic)
+
 - [ ] [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
 - [ ] [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
 - [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
-- [ ] [Harmony Music](https://github.com/anandnet/Harmony-Music)
-- [ ] [InnerTube](https://github.com/z-huang/InnerTune)
+
+
 - [ ] [Metro](https://github.com/MuntashirAkon/Metro)
 - [ ] [Odyssey](https://github.com/gateship-one/odyssey)
-- [ ] [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-- [ ] [Spotube](https://github.com/KRTirtho/spotube)
+
 
 #### Youtube
 
@@ -234,7 +227,8 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 #### Video Player
 
-- [Nova](https://github.com/nova-video-player/aos-AVP)
+- [ ] [Nova](https://github.com/nova-video-player/aos-AVP)
+- [ ] [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
   
 #### Self-Host Client Apps
 
@@ -252,7 +246,17 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 #### Entertainment
 
-- [CloudStream](https://github.com/recloudstream/cloudstream)
+- [ ] [CloudStream](https://github.com/recloudstream/cloudstream)
+
+#### Youtube Music 
+
+- [ ] [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
+- [ ] [SimpMusic](https://f-droid.org/en/packages/com.maxrave.simpmusic/)
+- [ ] [CloudPlayer](https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&pli=1)
+- [ ] [ViMusic](https://github.com/vfsfitvnm/ViMusic)
+- [ ] [Harmony Music](https://github.com/anandnet/Harmony-Music)
+- [ ] [InnerTube](https://github.com/z-huang/InnerTune)
+- [ ] [Spotube](https://github.com/KRTirtho/spotube)
 
 #### Online Storage
 
