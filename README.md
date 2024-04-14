@@ -4,17 +4,17 @@ This repository is used as a virtual storage space for everything I have managed
 
 This is for personal use only. Don't expect frequent updates, don't bother me with issues about this repository and feel free to copy whatever you see fit from this onto your own configuration.
 
-## Device
+# Device
 
 - [x] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
 
 * With Microphones, Sensors, all cameras physically removed
 
-## Operating System
+# Operating System
 
 - [x] [GrapheneOS](https://grapheneos.org/)
 
-## Virtual SIM
+# Virtual SIM
 
 - [ ] [Online Sim](https://onlinesim.io/)
 - [ ] [SMSPVA](https://smspva.com/)
@@ -23,9 +23,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Monero SMS](https://monerosms.com/)
 - [ ] [SMSPva](https://smspva.com/)
 
-## Applications 
-
-### Mandatory
+## Applications
 
 #### Phone Calling
 
