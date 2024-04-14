@@ -135,19 +135,14 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
 - [ ] [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
 - [ ] [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
-
-
-- [ ] [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
-
 - [ ] [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
 - [ ] [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
 - [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
-
-
 - [ ] [Metro](https://github.com/MuntashirAkon/Metro)
 - [ ] [Odyssey](https://github.com/gateship-one/odyssey)
 
-
+- [ ] [USB Audio Player Pro](https://play.google.com/store/search?q=USB+Audio+Player+Pro&c=apps)
+      
 #### Youtube
 
 - [ ] [Clipious](https://f-droid.org/en/packages/com.github.lamarios.clipious/)
