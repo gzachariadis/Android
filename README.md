@@ -374,14 +374,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh)
 - [ ] [Mobile_Security](https://github.com/beerisgood/Mobile_Security)
 
-## Applications
-
-- [ ] [What are some best paid Android apps you have ever purchased?](https://www.reddit.com/r/androidapps/comments/u50l45/what_are_some_best_paid_android_apps_you_have/)
-- [ ] [The best app that you have ever purchased?](https://www.reddit.com/r/androidapps/comments/12ie5q5/the_best_app_that_you_have_ever_purchased/)
-- [ ] [A List of some top Paid apps on Play Store](https://www.reddit.com/r/androidapps/comments/pgi3mm/a_list_of_some_top_paid_apps_on_play_store/) 
-- [ ] [What are your must have android apps?](https://www.reddit.com/r/androidapps/comments/8kc8yh/what_are_your_must_have_android_apps/)
-(https://www.reddit.com/r/androidapps/comments/13ge8ta/whats_the_most_underrated_app_youve_discovered_on/)
-
 ### Sources
 
 - [ ] [Remove Bloatware](https://www.androidsage.com/2022/04/11/remove-bloatware-uninstall-system-apps-from-any-android/)
