@@ -59,8 +59,8 @@ A browser for random non-identifying web searches.
 
 - [ ] [Tor Browser](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 - [ ] [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android)
-      - [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-      - [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
+      [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+      [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
 ### Secure Browser 
 
