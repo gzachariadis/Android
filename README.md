@@ -175,15 +175,26 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [ ] [Metro](https://github.com/MuntashirAkon/Metro)
   
-#### Youtube
+# Youtube
+
+- Youtube Account compatibillity
+- Sponsorship-Block 
+- Ad-blocking
+
+### Options
 
 - [ ] [Clipious](https://f-droid.org/en/packages/com.github.lamarios.clipious/)
 - [ ] [LibreTube](https://f-droid.org/en/packages/com.github.libretube/)
 - [ ] [Odysee](https://f-droid.org/en/packages/com.odysee.floss/)
-- [ ] [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
 - [ ] [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
 
-#### Maps
+# Maps
+
+- No Google Services
+- Offline Access
+- Public Transport
+
+### Options
 
 - [ ] [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
 - [ ] [Street­Complete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/)
@@ -225,7 +236,7 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [Accrescent](https://github.com/accrescent/accrescent)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Advertisement blocking
 
@@ -317,24 +328,29 @@ A secure browser to connecto to my online accounts (anything that requires login
 
 # Social Media
 
-#### Twitter
+## Twitter
 
 - [ ] [Squawker](https://f-droid.org/en/packages/org.ca.squawker/)
 - [ ] [Fritter](https://github.com/jonjomckay/fritter)
   
-#### Reddit
+## Reddit
 
 - [ ] [Stealth](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 - [ ] [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [ ] [Jerboa](https://github.com/LemmyNet/jerboa)
 
-#### Discord
+## Discord
+
+- Voice
+- No Trackers
 
 - [ ] [Aliucord](https://github.com/Aliucord/Aliucord)
 
-#### Instagram
+## Instagram
 
-- [ ] [Instagram]()
+- Only DMs and Profile Searching
+
+- [ ] [Distraction-Free Instagram](https://www.distractionfreeapps.com/)
 
 # Tools
 
