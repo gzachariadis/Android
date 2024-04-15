@@ -64,15 +64,11 @@ A browser for random non-identifying web searches.
 
 ### Secure Browser 
 
-#### Usecase 
-
 A secure browser to connecto to my online accounts (anything that requires login).
-
-#### Prerequisites
 
 - Add-ons compatible
 
-#### Options
+## Options
 
 - [ ] [Vanadium](https://github.com/GrapheneOS/Vanadium) - Exclusive to GrapheneOS
 
