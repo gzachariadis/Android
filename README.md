@@ -137,17 +137,34 @@ A secure browser to connecto to my online accounts (anything that requires login
 
 - [ ] [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 
-#### Books
+#### Book Reader
+
+- Track progress and Highlight between devices. (Syncing)
+- EPUB compatibillity
+
+## Options 
 
 - [ ] [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
 - [ ] [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 
-#### Podcasts
+#### Podcast Player
+
+- Open-Source
+- Abillity to sync preferences (import/export)
+
+## Options 
 
 - [ ] [AntennaPod](https://github.com/antennapod/AntennaPod)
 - [ ] [Escapepod](https://codeberg.org/y20k/escapepod)
 
-#### Music Player
+# Music Player
+
+- Open-Source
+- Top-Notch Interface
+- Supports embeded covers
+- Requires no-internet connection
+  
+### Options 
 
 - [ ] [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
