@@ -48,25 +48,19 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
       
 #### Throwaway Browser
 
-#### Usecase
-
 A browser for random non-identifying web searches.
-
-#### Prerequisites
 
 - Suitable for non-identifying Web Searches
 - Suitable for websites for Porn, Piracy etc.
 - Abillity to add Extensions (Add-ons) preferable
 - Everything including cookies,history etc. must be deleted on exit. 
 
-#### Options 
+## Options 
 
 - [ ] [Tor Browser](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
-
-or [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) with
-
-- [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
+- [ ] [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android)
+      - [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+      - [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
 ### Secure Browser 
 
