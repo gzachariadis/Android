@@ -23,21 +23,27 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Monero SMS](https://monerosms.com/)
 - [ ] [SMSPva](https://smspva.com/)
 
-## Applications
+# Applications
 
-#### Phone Calling
+# Phone Calling
+
+### Options
 
 - [ ] [Koler](https://github.com/Chooloo/koler)
 - [ ] [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer)
 - [ ] [Fossify Phone](https://github.com/FossifyOrg/Phone)
 
-#### Two-Factor Authentication
+# Two-Factor Authentication
+
+### Options
 
 - [x] [Aegis Authenticator](https://getaegis.app/)
 - [ ] [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
 - [ ] [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
 
-#### Photo Gallery
+# Photo Gallery
+
+### Options
 
 - [ ] [Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - [ ] [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
@@ -46,7 +52,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [FossifyOrg Gallery](https://github.com/FossifyOrg/Gallery)
 - [ ] [Gallery](https://github.com/IacobIonut01/Gallery)
       
-#### Throwaway Browser
+# Throwaway Browser
 
 A browser for random non-identifying web searches.
 
@@ -56,51 +62,62 @@ A browser for random non-identifying web searches.
 - Everything including cookies,history etc. must be deleted on exit.
 - Compatible with [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android)
 
-## Options 
+### Options 
 
 - [ ] [Tor Browser](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 - [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
-### Secure Browser 
+# Secure Browser 
 
 A secure browser to connecto to my online accounts (anything that requires login).
 
 - Add-ons compatible
 
-## Options
+### Options
 
 - [ ] [Vanadium](https://github.com/GrapheneOS/Vanadium) - Exclusive to GrapheneOS
 
-#### Contacts Management
+# Contacts Management
+
+### Options
 
 - [ ] [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 - [ ] [Koler](https://github.com/Chooloo/koler)
 - [ ] [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - [ ] [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
 
-#### Text Messaging
+# Text Messaging
+
+
+### Options
 
 - [ ] [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/)
 - [ ] [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
 - [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
 - [ ] [Silence](https://silence.im/)
 
-#### Keyboard
+# Keyboard
+
+### Options
 
 - [ ] [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
 - [ ] [AnySoftKeyboard](https://anysoftkeyboard.github.io/)
 - [ ] [Simple Keyboard](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
 - [ ] [HeliBoard](https://github.com/Helium314/HeliBoard)
 
-#### Notes
+# Notes
+
+### Options
 
 - [ ] [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
 - [ ] [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
 - [ ] [Notes-Central](https://github.com/vidit135g/Notes-Central?tab=readme-ov-file)
 - [ ] [Notally](https://github.com/OmGodse/Notally)
 
-#### File Manager
+# File Manager
+
+### Options
 
 - [ ] [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 - [ ] [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/)
@@ -109,15 +126,21 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [AnExplorer](https://github.com/1hakr/AnExplorer)
 - [ ] [Fossify File Manager](https://github.com/FossifyOrg/File-Manager)
 
-#### Password Manager
+# Password Manager
+
+### Options
 
 - [x] [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
   
-#### Calculator
+# Calculator
+
+### Options
 
 - [ ] [OpenCalc](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
 
-#### Calendar
+# Calendar
+
+### Options
 
 - [ ] [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 
@@ -126,33 +149,32 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
 - [ ] [Fossify Clock](https://github.com/FossifyOrg/Clock)
 
-#### Firewall
+# Firewall
+
+
+### Options
 
 - [ ] [AFWall+](https://github.com/ukanth/afwall)
 - [ ] [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
 - [ ] [NetGuard](https://netguard.me/)
 - [ ] [Karma Firewall](https://github.com/StarGW-net/karma-firewall)
 
-#### Debloat
-
-- [ ] [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
-
-#### Book Reader
+# Book Reader
 
 - Track progress and Highlight between devices. (Syncing)
 - EPUB compatibillity
 
-## Options 
+### Options 
 
 - [ ] [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
 - [ ] [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 
-#### Podcast Player
+# Podcast Player
 
 - Open-Source
 - Abillity to sync preferences (import/export)
 
-## Options 
+### Options 
 
 - [ ] [AntennaPod](https://github.com/antennapod/AntennaPod)
 - [ ] [Escapepod](https://codeberg.org/y20k/escapepod)
