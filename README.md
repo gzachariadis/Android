@@ -49,8 +49,14 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 #### Browser
 
 - [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- [ ] [Thorium Browser](https://github.com/Alex313031/Thorium-Android)
 - [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
+
+### Secure Browser 
+
+- Accounts (anything that requires login)
+
+- [ ] [Vanadium](https://github.com/GrapheneOS/Vanadium) - Exclusive to GrapheneOS
+
 
 #### Contacts Management
 
