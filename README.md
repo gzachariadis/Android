@@ -22,6 +22,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Crypton](https://crypton.sh/)
 - [ ] [Monero SMS](https://monerosms.com/)
 - [ ] [SMSPva](https://smspva.com/)
+- [ ] [Silent.link](https://silent.link/)
 
 ## Applications
 
@@ -85,6 +86,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
 - [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
 - [ ] [Silence](https://silence.im/)
+- [ ] [jmp](https://jmp.chat/)
 
 ## Keyboard
 
@@ -129,16 +131,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
 - [ ] [Fossify Clock](https://github.com/FossifyOrg/Clock)
-
-## Firewall
-
-- No use of the VPN (Compatible with VPN)
-- Custom Rules
-  
-- [ ] [AFWall+](https://github.com/ukanth/afwall)
-- [ ] [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
-- [ ] [NetGuard](https://netguard.me/)
-- [ ] [Karma Firewall](https://github.com/StarGW-net/karma-firewall)
 
 ## Book Reader
 
@@ -197,20 +189,49 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 # Security
 
+## DNS Changer
+
+- [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)
+
 ## Background Activities
 
 - [ ] [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [ ] [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
+
+## Anti-Screenshot
+
+- [ ] [Screen Wings](https://schiffer.tech/screenwings-mobile.html)
 
 ## Application Trackers
 
 - [ ] [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
 - [ ] [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
 
+## Shutdown
+
+- [ ] [DefShutdown](https://schiffer.tech/defshutdown-mobile.html)
+
+## QR Reader
+
+- [ ] [QR Code to Clipboard](https://schiffer.tech/qrcodetoclipboard-mobile.html)
+
+
 ## Work Profile
 
 - [ ] [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+- [ ] [Island](https://island.oasisfeng.com/)
 - [ ] [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
+
+## Firewall
+
+- No use of the VPN (Compatible with VPN)
+- Custom Rules
+  
+- [ ] [AFWall+](https://github.com/ukanth/afwall)
+- [ ] [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+- [ ] [NetGuard](https://netguard.me/)
+- [ ] [Karma Firewall](https://github.com/StarGW-net/karma-firewall)
+- [ ] [No Root Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall)
 
 ## Application Managers
 
@@ -244,9 +265,12 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
   
 ## Online Messaging
 
-- [Threema](https://threema.ch/en/home)
-- [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
-- [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
+- Open-Source.
+  - Many messaging apps claim to be secure, but if they are not open source, then this cannot be verified.
+- 
+
+- [ ] [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
+- [ ] [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
 
 ## Email
 
@@ -361,7 +385,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [TrebleShot](https://f-droid.org/packages/com.genonbeta.TrebleShot/)
       
-  
 # Maintenance
 
 ## Free-Space Eraser
