@@ -4,17 +4,17 @@ This repository is used as a virtual storage space for everything I have managed
 
 This is for personal use only. Don't expect frequent updates, don't bother me with issues about this repository and feel free to copy whatever you see fit from this onto your own configuration.
 
-# Device
+## Device
 
 - [x] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
 
 * With Microphones, Sensors, all cameras physically removed
 
-# Operating System
+## Operating System
 
 - [x] [GrapheneOS](https://grapheneos.org/)
 
-# Virtual SIM
+## Virtual SIM
 
 - [ ] [Online Sim](https://onlinesim.io/)
 - [ ] [SMSPVA](https://smspva.com/)
@@ -23,24 +23,24 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Monero SMS](https://monerosms.com/)
 - [ ] [SMSPva](https://smspva.com/)
 
-# Applications
+## Applications
 
-# Phone Calling
+## Phone Calling
 
 - [ ] [Koler](https://github.com/Chooloo/koler)
 - [ ] [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer)
 - [ ] [Fossify Phone](https://github.com/FossifyOrg/Phone)
 
-# Two-Factor Authentication
+## Two-Factor Authentication
 
 - [x] [Aegis Authenticator](https://getaegis.app/)
 - [ ] [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
 - [ ] [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
 
-# Photo Gallery
+## Photo Gallery
 
 - Open-Source
-- Encryption?
+- Vault - Encryption
 - Editing Pictures
 - Sort by Date
 
@@ -49,9 +49,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
 - [x] [Gallery](https://github.com/IacobIonut01/Gallery)
       
-# Throwaway Browser
-
-A browser for random non-identifying web searches.
+## Throwaway Browser
 
 - Suitable for non-identifying Web Searches
 - Suitable for websites for Porn, Piracy etc.
@@ -63,22 +61,22 @@ A browser for random non-identifying web searches.
 - [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
-# Secure Browser 
-
-A secure browser to connecto to my online accounts (anything that requires login).
+## Secure Browser 
 
 - Add-ons compatible
+- Connect to my online accounts (anything that requires login).
+- Maximum Security
 
 - [ ] [Vanadium](https://github.com/GrapheneOS/Vanadium) - Exclusive to GrapheneOS
 
-# Contacts Management
+## Contacts Management
 
 - [ ] [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 - [ ] [Koler](https://github.com/Chooloo/koler)
 - [ ] [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - [ ] [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
 
-# Text Messaging
+## Text Messaging
 
 - Auto-Delete Messages after X period
 - Encryption
@@ -88,7 +86,7 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
 - [ ] [Silence](https://silence.im/)
 
-# Keyboard
+## Keyboard
 
 - Open-Source
 - Greek Compatibillity
@@ -99,14 +97,14 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [Simple Keyboard](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
 - [ ] [HeliBoard](https://github.com/Helium314/HeliBoard)
 
-# Notes
+## Notes
 
 - [ ] [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
 - [ ] [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
 - [ ] [Notes-Central](https://github.com/vidit135g/Notes-Central?tab=readme-ov-file)
 - [ ] [Notally](https://github.com/OmGodse/Notally)
 
-# File Manager
+## File Manager
 
 - [ ] [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 - [ ] [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/)
@@ -115,31 +113,34 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [AnExplorer](https://github.com/1hakr/AnExplorer)
 - [ ] [Fossify File Manager](https://github.com/FossifyOrg/File-Manager)
 
-# Password Manager
+## Password Manager
 
 - [x] [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
   
-# Calculator
+## Calculator
 
 - [ ] [OpenCalc](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
 
-# Calendar
+## Calendar ???????
 
 - [ ] [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 
-#### Clock & Alarm
+## Clock & Alarm
 
 - [ ] [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
 - [ ] [Fossify Clock](https://github.com/FossifyOrg/Clock)
 
-# Firewall
+## Firewall
 
+- No use of the VPN (Compatible with VPN)
+- Custom Rules
+  
 - [ ] [AFWall+](https://github.com/ukanth/afwall)
 - [ ] [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
 - [ ] [NetGuard](https://netguard.me/)
 - [ ] [Karma Firewall](https://github.com/StarGW-net/karma-firewall)
 
-# Book Reader
+## Book Reader
 
 - Track progress and Highlight between devices. (Syncing)
 - EPUB compatibillity
@@ -147,7 +148,7 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
 - [ ] [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 
-# Podcast Player
+## Podcast Player
 
 - Open-Source
 - Abillity to sync preferences (import/export)
@@ -155,7 +156,7 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [AntennaPod](https://github.com/antennapod/AntennaPod)
 - [ ] [Escapepod](https://codeberg.org/y20k/escapepod)
 
-# Music Player
+## Music Player
 
 - Open-Source
 - Top-Notch Interface
@@ -171,7 +172,7 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [ ] [Metro](https://github.com/MuntashirAkon/Metro)
   
-# Youtube
+## Youtube
 
 - Youtube Account compatibillity
 - Sponsorship-Block 
@@ -182,7 +183,7 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [Odysee](https://f-droid.org/en/packages/com.odysee.floss/)
 - [ ] [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
 
-# Maps
+## Maps
 
 - No Google Services
 - Offline Access
@@ -301,37 +302,37 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser)
 - [ ] [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
 
-### Habits & General Trackers
+## Habits & General Trackers
 
 - [Table Habit](https://f-droid.org/en/packages/io.github.friesi23.mhabit/)
 - [Broccoli](https://f-droid.org/en/packages/com.flauschcode.broccoli/)
 - [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
   
-### Translate
+## Translate
 
 - [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile)
 - [TranslateYou](https://github.com/you-apps/TranslateYou)
   
-### Backup
+## Backup
 
 - [ ] [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
 
 # Social Media
  
-### Reddit
+## Reddit
 
 - [ ] [Stealth](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 - [ ] [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [ ] [Jerboa](https://github.com/LemmyNet/jerboa)
 
-### Discord
+## Discord
 
 - Voice
 - No Trackers
 
 - [ ] [Aliucord](https://github.com/Aliucord/Aliucord)
 
-### Instagram
+## Instagram
 
 - Only DMs and Profile Searching
 
@@ -339,46 +340,46 @@ A secure browser to connecto to my online accounts (anything that requires login
 
 # Tools
 
-### Antivirus & Malware Scanners
+## Antivirus & Malware Scanners
 
 - [ ] [Hypatia](https://f-droid.org/en/packages/us.spotco.malwarescanner/)
 
-### Time Limit
+## Time Limit
 
 - [ ] [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
 
-### Notification Management
+## Notification Management
 
 - [ ] [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
 
-### URL Cleaners
+## URL Cleaners
 
 - [ ] [Untracker](https://github.com/zhanghai/Untracker)
 - [ ] [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker&hl=en&gl=US)
   
 # Maintenance
 
-### Free-Space Eraser
+## Free-Space Eraser
 
 - [ ] [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
 - [ ] [Extirpater](https://gitlab.com/divested-mobile/extirpater)
 
-### Application Permissions
+## Application Permissions
 
 - [ ] [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission) 
 - [ ] [Permission Tool](https://github.com/d4rken-org/permission-pilot)
 
-### Syncing
+## Syncing
 
 - [ ] [Folder-Sync](https://foldersync.io/)
 - [ ] [Syncthing Fork](https://github.com/Catfriend1/syncthing-android)
 
-### Random Apps
+## Random Apps
 
 - [ ] [Catima](https://catima.app/)
 - [ ] [LABD - Local ADB Shell](https://play.google.com/store/apps/details?id=com.draco.ladb)
 
-### Copy SMS Codes
+## Copy SMS Codes
 
 - [ ] [Copy SMS Code](https://f-droid.org/en/packages/io.github.jd1378.otphelper/)
 
