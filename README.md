@@ -421,9 +421,12 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [x] [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
 - [x] [Best-FOSS-Apps-for-Android](https://github.com/piyushkumar-prog/Best-FOSS-Apps-for-Android)
 
+
 <br>
 
+- [ ] [Android Privacy](https://github.com/arimkevi/android-privacy)
 - [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
+- [ ] [Android Privacy Guide](https://github.com/z399/Android-privacy-guide)
 - [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 - [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 - [ ] [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
