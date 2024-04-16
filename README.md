@@ -39,12 +39,15 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 # Photo Gallery
 
-- [ ] [Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+- Open-Source
+- Encryption?
+- Editing Pictures
+- Sort by Date
+
 - [ ] [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
-- [ ] [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
-- [ ] [Camera Roll Android App](https://github.com/kollerlukas/Camera-Roll-Android-App)
 - [ ] [FossifyOrg Gallery](https://github.com/FossifyOrg/Gallery)
-- [ ] [Gallery](https://github.com/IacobIonut01/Gallery)
+- [ ] [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
+- [x] [Gallery](https://github.com/IacobIonut01/Gallery)
       
 # Throwaway Browser
 
@@ -77,12 +80,19 @@ A secure browser to connecto to my online accounts (anything that requires login
 
 # Text Messaging
 
+- Auto-Delete Messages after X period
+- Encryption
+
 - [ ] [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/)
 - [ ] [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
 - [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
 - [ ] [Silence](https://silence.im/)
 
 # Keyboard
+
+- Open-Source
+- Greek Compatibillity
+- No Dictionary
 
 - [ ] [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
 - [ ] [AnySoftKeyboard](https://anysoftkeyboard.github.io/)
@@ -179,7 +189,6 @@ A secure browser to connecto to my online accounts (anything that requires login
 - Public Transport
 
 - [ ] [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
-- [ ] [Street­Complete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/)
 - [ ] [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin.offline/)
 - [ ] [OSM Dashboard OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)
 - [ ] [Transportr](https://github.com/grote/Transportr)
@@ -207,6 +216,8 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [App Manager](https://github.com/MuntashirAkon/AppManager)
 
 ## Virtual Private Network (VPN)
+
+- Non-Commercial VPN Provider
 
 - [x] [WIreGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)
 
@@ -270,15 +281,16 @@ A secure browser to connecto to my online accounts (anything that requires login
 
 ## Youtube Music 
 
+- No Advertisment
+- Sync playlists with YouTube Music
+
 - [ ] [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/)
 - [ ] [SimpMusic](https://f-droid.org/en/packages/com.maxrave.simpmusic/)
 - [ ] [CloudPlayer](https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&pli=1)
 - [ ] [ViMusic](https://github.com/vfsfitvnm/ViMusic)
 - [ ] [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [ ] [InnerTube](https://github.com/z-huang/InnerTune)
-- [ ] [Spotube](https://github.com/KRTirtho/spotube)
-- [ ] [Harmony Music](https://f-droid.org/en/packages/com.anandnet.harmonymusic/)
-      
+  
 ## Online Storage
 
 - [Infomaniak kDrive](https://f-droid.org/en/packages/com.infomaniak.drive/)
@@ -289,46 +301,37 @@ A secure browser to connecto to my online accounts (anything that requires login
 - [ ] [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser)
 - [ ] [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
 
-## Habits & General Trackers
+### Habits & General Trackers
 
 - [Table Habit](https://f-droid.org/en/packages/io.github.friesi23.mhabit/)
 - [Broccoli](https://f-droid.org/en/packages/com.flauschcode.broccoli/)
 - [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
   
-## Blue-Light Screen Filter
-
-- [Red Moon](https://github.com/LibreShift/red-moon)
-
-## Translate
+### Translate
 
 - [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile)
 - [TranslateYou](https://github.com/you-apps/TranslateYou)
   
-## Backup
+### Backup
 
 - [ ] [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
 
 # Social Media
-
-## Twitter
-
-- [ ] [Squawker](https://f-droid.org/en/packages/org.ca.squawker/)
-- [ ] [Fritter](https://github.com/jonjomckay/fritter)
-  
-## Reddit
+ 
+### Reddit
 
 - [ ] [Stealth](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 - [ ] [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [ ] [Jerboa](https://github.com/LemmyNet/jerboa)
 
-## Discord
+### Discord
 
 - Voice
 - No Trackers
 
 - [ ] [Aliucord](https://github.com/Aliucord/Aliucord)
 
-## Instagram
+### Instagram
 
 - Only DMs and Profile Searching
 
@@ -336,46 +339,46 @@ A secure browser to connecto to my online accounts (anything that requires login
 
 # Tools
 
-## Antivirus & Malware Scanners
+### Antivirus & Malware Scanners
 
 - [ ] [Hypatia](https://f-droid.org/en/packages/us.spotco.malwarescanner/)
 
-## Time Limit
+### Time Limit
 
 - [ ] [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
 
-## Notification Management
+### Notification Management
 
 - [ ] [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
 
-## URL Cleaners
+### URL Cleaners
 
 - [ ] [Untracker](https://github.com/zhanghai/Untracker)
 - [ ] [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker&hl=en&gl=US)
   
 # Maintenance
 
-## Free-Space Eraser
+### Free-Space Eraser
 
 - [ ] [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
 - [ ] [Extirpater](https://gitlab.com/divested-mobile/extirpater)
 
-## Application Permissions
+### Application Permissions
 
 - [ ] [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission) 
 - [ ] [Permission Tool](https://github.com/d4rken-org/permission-pilot)
 
-## Syncing
+### Syncing
 
 - [ ] [Folder-Sync](https://foldersync.io/)
 - [ ] [Syncthing Fork](https://github.com/Catfriend1/syncthing-android)
 
-# Random Apps
+### Random Apps
 
 - [ ] [Catima](https://catima.app/)
 - [ ] [LABD - Local ADB Shell](https://play.google.com/store/apps/details?id=com.draco.ladb)
 
-## Copy SMS Codes
+### Copy SMS Codes
 
 - [ ] [Copy SMS Code](https://f-droid.org/en/packages/io.github.jd1378.otphelper/)
 
