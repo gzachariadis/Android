@@ -356,6 +356,11 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [Untracker](https://github.com/zhanghai/Untracker)
 - [ ] [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker&hl=en&gl=US)
+
+## File Transfer
+
+- [ ] [TrebleShot](https://f-droid.org/packages/com.genonbeta.TrebleShot/)
+      
   
 # Maintenance
 
