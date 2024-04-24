@@ -281,6 +281,10 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [addy.io](https://gitlab.com/Stjin/anonaddy-android)
 - [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
 
+
+- [OpenPGP Key Chain](https://www.openkeychain.org/)
+
+
 ## Video Player
 
 - [ ] [Nova](https://github.com/nova-video-player/aos-AVP)
