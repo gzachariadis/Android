@@ -215,7 +215,6 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 - [ ] [QR Code to Clipboard](https://schiffer.tech/qrcodetoclipboard-mobile.html)
 
-
 ## Work Profile
 
 - [ ] [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
