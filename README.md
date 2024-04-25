@@ -189,6 +189,10 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 
 # Security
 
+## Settings
+
+- [SecureTask](https://play.google.com/store/apps/details?id=com.balda.securetask)
+
 ## DNS Changer
 
 - [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)
