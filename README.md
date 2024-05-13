@@ -494,5 +494,9 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - [ ] [Hardening Android for Security and Privacy ](https://www.reddit.com/r/Android/comments/224h02/hardening_android_for_security_and_privacy/)
 - [ ] [Locking down / hardening an Android phone ](https://www.reddit.com/r/AskNetsec/comments/9lfh12/locking_down_hardening_an_android_phone/)
 - [ ] [LineageOS or hardened, debloated stock Android? ](https://www.reddit.com/r/PrivacyGuides/comments/xsgfa1/lineageos_or_hardened_debloated_stock_android/)
-
+- [ ] [Crowdsourced de-Googled Android Apps](https://plexus.techlore.tech/)
+- [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
+- [ ] [Cellular Privacy](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
+- [ ] [GrapheneOS](https://grapheneos.org/features)
+- [ ] 
 
