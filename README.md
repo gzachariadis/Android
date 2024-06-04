@@ -362,6 +362,7 @@ This is for personal use only. Don't expect frequent updates, don't bother me wi
 - No Trackers
 
 - [ ] [Aliucord](https://github.com/Aliucord/Aliucord)
+- [ ] [Kizzy - Share Activity](https://github.com/dead8309/Kizzy)
 
 ## Instagram
 
