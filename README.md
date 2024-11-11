@@ -97,11 +97,8 @@ Each application must be Open-source and receive regular updates.
 
 - Auto-Delete Messages after X period
 - Encryption
-
-- [ ] [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/)
-- [ ] [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
-- [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
-- [ ] [jmp](https://jmp.chat/)
+  
+- [ ] [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 
 ### Keyboard
 
