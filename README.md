@@ -97,6 +97,7 @@ Each application must be Open-source and receive regular updates.
 
 - Auto-Delete Messages after X period
 - Encryption
+- Open Source
   
 - [ ] [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 
@@ -482,8 +483,8 @@ Each application must be Open-source and receive regular updates.
 
 <br>
 
-- [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
-- [ ] [Android Privacy Guide](https://github.com/z399/Android-privacy-guide)
+- [x] [Android Privacy Guide](https://github.com/z399/Android-privacy-guide)
+
 - [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 - [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 - [ ] [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
