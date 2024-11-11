@@ -6,6 +6,12 @@ This is for personal use only. Don't expect frequent updates.
 
 Feel free to copy whatever you think fits onto your own configuration.
 
+All applications that are listed are:
+
+- Currently Maintained
+- Open-Source
+
+
 ## Device
 
 - [x] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
@@ -97,13 +103,11 @@ Each application must be Open-source and receive regular updates.
 
 - Auto-Delete Messages after X period
 - Encryption
-- Open Source
-  
+
 - [ ] [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 
 ### Keyboard
 
-- Open-Source
 - Greek Compatibillity
 - No Dictionary
 
@@ -223,7 +227,6 @@ Each application must be Open-source and receive regular updates.
 
 ### Podcast Player
 
-- Open-Source
 - Abillity to sync preferences (import/export)
 
 - [ ] [AntennaPod](https://github.com/antennapod/AntennaPod)
@@ -231,7 +234,6 @@ Each application must be Open-source and receive regular updates.
 
 ### Music Player
 
-- Open-Source
 - Top-Notch Interface
 - Supports embeded covers
 - Requires no-internet connection
