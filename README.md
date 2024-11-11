@@ -49,7 +49,10 @@ Each application must be Open-source and receive regular updates.
   - Virtual Private Network (VPN)
 
 - Device Security
-  - 
+  - Secure Shutdown
+  - Antivirus & Malware Scanners
+  - Anti-Screenshot
+  - Work Profile
     
 - Media
   - Photo Gallery
@@ -65,6 +68,14 @@ Each application must be Open-source and receive regular updates.
   - Discord
   - Instagram
   - Facebook Messenger
+  - Private Online Messaging
+
+- System Maintenance
+  - Free-Space Eraser
+
+- Travelling
+  - Maps
+  - Public Transport
 
 ## Core Device Functionality 
 
@@ -90,7 +101,6 @@ Each application must be Open-source and receive regular updates.
 - [ ] [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/)
 - [ ] [Textra](https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=US)
 - [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
-- [ ] [Silence](https://silence.im/)
 - [ ] [jmp](https://jmp.chat/)
 
 ### Keyboard
@@ -179,23 +189,13 @@ Each application must be Open-source and receive regular updates.
 
 - [ ] [DefShutdown](https://schiffer.tech/defshutdown-mobile.html)
 
-### Settings
+### Antivirus & Malware Scanners
 
-- [SecureTask](https://play.google.com/store/apps/details?id=com.balda.securetask)
-
-### Background Activities
-
-- [ ] [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
-- [ ] [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
+- [ ] [Hypatia](https://f-droid.org/en/packages/us.spotco.malwarescanner/)
 
 ### Anti-Screenshot
 
 - [ ] [Screen Wings](https://schiffer.tech/screenwings-mobile.html)
-
-### Application Trackers
-
-- [ ] [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
-- [ ] [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
 
 ### Work Profile
 
@@ -221,6 +221,7 @@ Each application must be Open-source and receive regular updates.
 
 - [ ] [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
 - [ ] [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+- [ ] [Myne](https://f-droid.org/packages/com.starry.myne/)
 
 ### Podcast Player
 
@@ -236,6 +237,7 @@ Each application must be Open-source and receive regular updates.
 - Top-Notch Interface
 - Supports embeded covers
 - Requires no-internet connection
+- Playback from Remote Server
   
 - [ ] [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
@@ -245,7 +247,11 @@ Each application must be Open-source and receive regular updates.
 - [ ] [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
 - [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [ ] [Metro](https://github.com/MuntashirAkon/Metro)
-
+- [ ] [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
+- [ ] [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
+- [ ] [ExoPlayer](https://github.com/google/ExoPlayer)
+- [ ] [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
+  
 ### Video Player
 
 - [ ] [Nova](https://github.com/nova-video-player/aos-AVP)
@@ -254,6 +260,8 @@ Each application must be Open-source and receive regular updates.
 ### Audiobook Player
 
 - Syncs Progress
+
+- [x] [Lissen: Audiobookshelf client](https://f-droid.org/en/packages/org.grakovne.lissen/)
 
 ### PDF Viewer
 
@@ -271,7 +279,7 @@ Each application must be Open-source and receive regular updates.
 - [ ] [LibreTube](https://f-droid.org/en/packages/com.github.libretube/)
 - [ ] [Odysee](https://f-droid.org/en/packages/com.odysee.floss/)
 - [ ] [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
-- [ ] [NewPipe]()
+- [ ] [PipePipe](https://f-droid.org/en/packages/InfinityLoop1309.NewPipeEnhanced/)
       
 ### Discord
 
@@ -287,7 +295,71 @@ Each application must be Open-source and receive regular updates.
 
 - [ ] [Distraction-Free Instagram](https://www.distractionfreeapps.com/)
 
-## Throwaway Browser
+### Facebook Messenger
+
+- [ ] 
+
+### Private Online Messaging
+
+- Open-Source.
+  - Many messaging apps claim to be secure, but if they are not open source, then this cannot be verified.
+
+- [ ] [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
+- [ ] [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
+
+## WebMail
+
+### Email
+
+- [ ] [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
+- [ ] [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+- [ ] [k9Mail](https://k9mail.app/)
+- [ ] [Thunderbird](https://f-droid.org/packages/net.thunderbird.android/)
+- [ ] [Tutanota](https://github.com/tutao/tutanota)
+
+### Alias Management
+
+- [ ] [addy.io](https://gitlab.com/Stjin/anonaddy-android)
+- [ ] [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
+
+### OpenPGP - Pretty Good Privacy
+
+- [ ] [OpenPGP Key Chain](https://www.openkeychain.org/)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## System Maintenance
+
+### Free-Space Eraser
+
+- [ ] [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
+- [ ] [Extirpater](https://gitlab.com/divested-mobile/extirpater)
+
+## Travelling
+
+### Maps
+
+- No Google Services
+- Offline Access
+
+- [ ] [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
+- [ ] [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin.offline/)
+- [ ] [OSM Dashboard OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)
+- [ ] [Transportr](https://github.com/grote/Transportr)
+- [ ] [Organic Maps](https://organicmaps.app/)
+
+### Public Transport
+
+- [ ] [Transportr](https://github.com/grote/Transportr)
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
+### Throwaway Browser
 
 - Suitable for non-identifying Web Searches
 - Everything including cookies,history etc. must be deleted on exit.
@@ -297,7 +369,7 @@ Each application must be Open-source and receive regular updates.
 - [ ] [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [ ] [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
-## Notes
+### Notes
 
 - Encryption
 - Lock Functionallity
@@ -305,36 +377,20 @@ Each application must be Open-source and receive regular updates.
 - [ ] [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
 - [ ] [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
 - [ ] [Notes-Central](https://github.com/vidit135g/Notes-Central?tab=readme-ov-file)
-- [ ] [Notally](https://github.com/OmGodse/Notally)
+- [ ] [Notally.X](https://github.com/OmGodse/Notally)
 
-## Password Manager
+### Password Manager
 
 - Ecryption
 
 - [x] [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
   
-## Calendar
+### Calendar
 
 - [ ] [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 - [ ] [Tuta Calendar]()
 
-## Maps
-
-- No Google Services
-- Offline Access
-- Public Transport
-
-- [ ] [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
-- [ ] [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin.offline/)
-- [ ] [OSM Dashboard OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)
-- [ ] [Transportr](https://github.com/grote/Transportr)
-- [ ] [Organic Maps](https://organicmaps.app/)
-
-## QR Reader
-
-- [ ] [QR Code to Clipboard](https://schiffer.tech/qrcodetoclipboard-mobile.html)
-
-## Application Managers
+### Application Managers
 
 - [ ] [App Manager](https://github.com/MuntashirAkon/AppManager)
 
@@ -343,43 +399,15 @@ Each application must be Open-source and receive regular updates.
 - [ ] [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
 - [ ] [Fossify Clock](https://github.com/FossifyOrg/Clock)
 
+### Screen Filter
+
+- [ ] [RedMoon](https://f-droid.org/packages/com.jmstudios.redmoon/)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-## Local Share
+### Metadata Manipulation 
 
-- [ ] [Snapdrop](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
-- [ ] [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/)
-  
-## Online Messaging
-
-- Open-Source.
-  - Many messaging apps claim to be secure, but if they are not open source, then this cannot be verified.
-
-- [ ] [Molly - Signal Fork](https://github.com/mollyim/mollyim-android) 
-- [ ] [Langis: Signal without Google Play Services support](https://langis.cloudfrancois.fr/)
-
-## Email
-
-- [ ] [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
-- [ ] [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
-- [ ] [k9Mail](https://k9mail.app/)
-- [ ] [Tutanota](https://github.com/tutao/tutanota)
-
-## Alias Management
-
-- [ ] [addy.io](https://gitlab.com/Stjin/anonaddy-android)
-- [ ] [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
-
-- [ ] [OpenPGP Key Chain](https://www.openkeychain.org/)
-
-## Self-Host Client Apps
-
-- [ ] [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
-- [ ] [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
-  
-## Entertainment
-
-- [ ] [CloudStream](https://github.com/recloudstream/cloudstream)
+- [MusicBraiz](https://f-droid.org/en/packages/org.metabrainz.android/)
 
 ## Online Storage
 
@@ -395,43 +423,42 @@ Each application must be Open-source and receive regular updates.
 
 - [ ] [Table Habit](https://f-droid.org/en/packages/io.github.friesi23.mhabit/)
 - [ ] [Broccoli](https://f-droid.org/en/packages/com.flauschcode.broccoli/)
-- [] [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
+- [ ] [Githo](https://f-droid.org/en/packages/com.florianthaler.githo/)
   
 ## Backup
 
 - [ ] [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup/)
 
-# Tools
+### Settings
 
-## Antivirus & Malware Scanners
+- [SecureTask](https://play.google.com/store/apps/details?id=com.balda.securetask)
 
-- [ ] [Hypatia](https://f-droid.org/en/packages/us.spotco.malwarescanner/)
+### Background Activities
 
-## Time Limit
+- [ ] [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
+- [ ] [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
 
-- [ ] [TimeLimit.io](https://f-droid.org/en/packages/io.timelimit.android.aosp.direct/)
+### Application Trackers
 
-## Notification Management
+- [ ] [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
+- [ ] [Blocker](https://f-droid.org/en/packages/com.merxury.blocker/)
+
+## Tools
+
+### Book Tracker
+
+- [ ] [OpenReads](https://f-droid.org/en/packages/software.mdev.bookstracker/)
+
+### Notification Management
 
 - [ ] [BuzzKill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en&gl=US)
 
-## URL Cleaners
+### URL Cleaners
 
 - [ ] [Untracker](https://github.com/zhanghai/Untracker)
 - [ ] [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker&hl=en&gl=US)
-
-## File Transfer
-
-- [ ] [TrebleShot](https://f-droid.org/packages/com.genonbeta.TrebleShot/)
-      
-# Maintenance
-
-## Free-Space Eraser
-
-- [ ] [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
-- [ ] [Extirpater](https://gitlab.com/divested-mobile/extirpater)
-
-## Application Permissions
+ 
+### Application Permissions
 
 - [ ] [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission) 
 - [ ] [Permission Tool](https://github.com/d4rken-org/permission-pilot)
@@ -458,7 +485,6 @@ Each application must be Open-source and receive regular updates.
 
 <br>
 
-- [ ] [Android Privacy](https://github.com/arimkevi/android-privacy)
 - [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
 - [ ] [Android Privacy Guide](https://github.com/z399/Android-privacy-guide)
 - [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
@@ -485,15 +511,15 @@ Each application must be Open-source and receive regular updates.
 - [ ] [What are your favorite Android lifehacks / power user tips? ](https://www.reddit.com/r/Android/comments/xlxq1a/what_are_your_favorite_android_lifehacks_power/)
 - [ ] [Android | Privacy Guides](https://www.reddit.com/r/PrivacyGuides/comments/rkajh4/android_privacy_guides/)
 - [ ] [Reddit - Android](https://www.reddit.com/r/Android/comments/1wihj8/the_redditors_guide_to_android_privacy_and_other/)
-- [ ] [Android Security Question Newbie here to android been a lifetime iPhone user any tips on making a Samsung phone as safe as possible? ](https://www.reddit.com/r/privacy/comments/sew28b/android_security_question_newbie_here_to_android/)
-- [ ] [I made an simple & comprehensive guide to Android Privacy! ](https://www.reddit.com/r/Android/comments/92b2eg/i_made_an_simple_comprehensive_guide_to_android/)
-- [ ] [How to maximize privacy on new phone? ](https://www.reddit.com/r/PrivacyGuides/comments/z5eyjo/how_to_maximize_privacy_on_new_phone/)
-- [ ] [Best Up-To-Date Android Privacy Practices? ](https://www.reddit.com/r/privacy/comments/zniwy3/best_uptodate_android_privacy_practices/)
-- [ ] [Android's security is BETTER than you think! 🦠🤖 ](https://www.reddit.com/r/Android/comments/y1vx2t/androids_security_is_better_than_you_think/)
-- [ ] [The Privacy Enthusiast's Guide to Using Android ](https://www.reddit.com/r/Android/comments/5ul5dp/the_privacy_enthusiasts_guide_to_using_android/)
-- [ ] [Securing your Android - what and why? ](https://www.reddit.com/r/Android/comments/19bsm4/securing_your_android_what_and_why/)
+- [ ] [Android Security Question Newbie here to android been a lifetime iPhone user any tips on making a Samsung phone as safe as possible?](https://www.reddit.com/r/privacy/comments/sew28b/android_security_question_newbie_here_to_android/)
+- [ ] [I made an simple & comprehensive guide to Android Privacy!](https://www.reddit.com/r/Android/comments/92b2eg/i_made_an_simple_comprehensive_guide_to_android/)
+- [ ] [How to maximize privacy on new phone?](https://www.reddit.com/r/PrivacyGuides/comments/z5eyjo/how_to_maximize_privacy_on_new_phone/)
+- [ ] [Best Up-To-Date Android Privacy Practices?](https://www.reddit.com/r/privacy/comments/zniwy3/best_uptodate_android_privacy_practices/)
+- [ ] [Android's security is BETTER than you think! 🦠🤖](https://www.reddit.com/r/Android/comments/y1vx2t/androids_security_is_better_than_you_think/)
+- [ ] [The Privacy Enthusiast's Guide to Using Android](https://www.reddit.com/r/Android/comments/5ul5dp/the_privacy_enthusiasts_guide_to_using_android/)
+- [ ] [Securing your Android - what and why?](https://www.reddit.com/r/Android/comments/19bsm4/securing_your_android_what_and_why/)
 - [ ] [Why isn't Firefox recommended on Android? ](https://www.reddit.com/r/PrivacyGuides/comments/1050g17/why_isnt_firefox_recommended_on_android/)
-- [ ] [A real Android hardening guide? ](https://www.reddit.com/r/PrivacyGuides/comments/uv5gjg/a_real_android_hardening_guide/)
+- [ ] [A real Android hardening guide?](https://www.reddit.com/r/PrivacyGuides/comments/uv5gjg/a_real_android_hardening_guide/)
 - [ ] [Google Android Hardening Checklist | UT Austin Information Security Office](https://security.utexas.edu/handheld-hardening-checklists/android)
 - [ ] [Android Hardening Guide | Deep Dive Security](https://deepdivesecurity.ca/blog/android-hardening-guide)
 - [ ] [Android Security Guide to Follow — Secure Your Android Phone Today | by Sadia Khan | Medium](https://medium.com/@skhan_39043/android-security-guide-to-follow-secure-your-android-phone-today-2bb05975ff70)
@@ -524,6 +550,4 @@ Each application must be Open-source and receive regular updates.
 - [ ] [Crowdsourced de-Googled Android Apps](https://plexus.techlore.tech/)
 - [ ] [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
 - [ ] [Cellular Privacy](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
-- [ ] [GrapheneOS](https://grapheneos.org/features)
-- [ ] 
 
