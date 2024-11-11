@@ -344,7 +344,7 @@ Each application must be Open-source and receive regular updates.
 - No Google Services
 - Offline Access
 
-- [ ] [OsmAnd+ — Maps & GPS Offline](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=en)
+- [ ] [OsmAnd+ — Maps & GPS Offline](https://f-droid.org/en/packages/net.osmand.plus/)
 - [ ] [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin.offline/)
 - [ ] [OSM Dashboard OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)
 - [ ] [Transportr](https://github.com/grote/Transportr)
