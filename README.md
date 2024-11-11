@@ -9,18 +9,68 @@ All applications that are listed are:
 - Currently Maintained
 - Open-Source
 
+<br>
 
-## Device
+- Choosing a Device
+- Choosing an Operating System
+- Virtual vs Physical SIM
+- System Settings
+- Applications
+  - Core Device Functionality
+    - Phone
+    - Contacts
+    - Texting
+    - Keyboard
+    - File Manager
+    - Launcher
+    - Secure Browser
+    - Application Stores
+  - Account Security
+    - Two-Factor Authentication
+  - Online Security
+    - Firewall
+    - DNS Changer
+    - Virtual Private Network (VPN)
+  - Device Security
+    - Secure Shutdown
+    - Antivirus & Malware Scanners
+    - Anti-Screenshot
+    - Work Profile
+  - Media
+    - Photo Gallery
+    - Book Reader
+    - Podcasts
+    - Music Player
+    - Video Player
+    - Audiobooks Player
+    - PDF Viewer
+  - Social Media
+    - Youtube
+    - Discord
+    - Instagram
+    - Facebook Messenger
+  - Private Messaging
+  - System Maintenance
+    - Free-Space Eraser
+  - Travelling
+    - Maps
+    - Public Transport
+
+## Choosing a Device
+
+Options
 
 - [x] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
 
 * With Microphones, Sensors, all cameras physically removed
 
-## Operating System
+## Choosing an Operating System
 
 - [x] [GrapheneOS](https://grapheneos.org/)
 
-## Virtual SIM Providers
+## Virtual vs Physical SIM
+
+### Virtual SIM Providers
 
 - [ ] [Online Sim](https://onlinesim.io/)
 - [ ] [SMSPVA](https://smspva.com/)
@@ -31,55 +81,6 @@ All applications that are listed are:
 - [ ] [Silent.link](https://silent.link/)
 
 ## Applications
-
-Each application must be Open-source and receive regular updates.
-
-- Core Device Functionality
-  - Phone
-  - Contacts
-  - Texting
-  - Keyboard
-  - File Manager
-  - Launcher
-  - Secure Browser
-  - Application Stores
-
-- Account Security
-  - Two-Factor Authentication
-
-- Online Security
-  - Firewall
-  - DNS Changer
-  - Virtual Private Network (VPN)
-
-- Device Security
-  - Secure Shutdown
-  - Antivirus & Malware Scanners
-  - Anti-Screenshot
-  - Work Profile
-    
-- Media
-  - Photo Gallery
-  - Book Reader
-  - Podcast Player
-  - Music Player
-  - Video Player
-  - Audiobooks Player
-  - PDF Viewer
-
-- Social Media
-  - Youtube
-  - Discord
-  - Instagram
-  - Facebook Messenger
-  - Private Online Messaging
-
-- System Maintenance
-  - Free-Space Eraser
-
-- Travelling
-  - Maps
-  - Public Transport
 
 ## Core Device Functionality 
 
@@ -379,8 +380,6 @@ Each application must be Open-source and receive regular updates.
 
 ### Password Manager
 
-- Ecryption
-
 - [x] [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
   
 ### Calendar
@@ -405,11 +404,7 @@ Each application must be Open-source and receive regular updates.
 
 ### Metadata Manipulation 
 
-- [MusicBraiz](https://f-droid.org/en/packages/org.metabrainz.android/)
-
-## Online Storage
-
-- [ ] [Infomaniak kDrive](https://f-droid.org/en/packages/com.infomaniak.drive/)
+- [ ] [MusicBraiz](https://f-droid.org/en/packages/org.metabrainz.android/)
 
 ## Remove Image Meta-Data
 
@@ -484,8 +479,8 @@ Each application must be Open-source and receive regular updates.
 <br>
 
 - [x] [Android Privacy Guide](https://github.com/z399/Android-privacy-guide)
-
-- [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
+- [x] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
+      
 - [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 - [ ] [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
 - [ ] [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security)
