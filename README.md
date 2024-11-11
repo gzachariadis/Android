@@ -58,6 +58,7 @@ Each application must be Open-source and receive regular updates.
   - Music Player
   - Video Player
   - Audiobooks Player
+  - PDF Viewer
 
 - Social Media
   - Youtube
@@ -253,6 +254,10 @@ Each application must be Open-source and receive regular updates.
 ### Audiobook Player
 
 - Syncs Progress
+
+### PDF Viewer
+
+- [GrapheneOS - PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
 
 ## Social Media
 
