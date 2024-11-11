@@ -1,10 +1,8 @@
 <h1 align="center">Android</h1>
 
-A virtual storage space for my configuration regarding my Android Phone.
+<p align="center">A virtual storage space for my configuration regarding my Android Phone.</p>
 
-This is for personal use only. Don't expect frequent updates. 
-
-Feel free to copy whatever you think fits onto your own configuration.
+<p align="center">This is for personal use only. Don't expect frequent updates.</p>
 
 All applications that are listed are:
 
