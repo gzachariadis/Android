@@ -60,13 +60,13 @@ All applications that are listed are:
 
 Options
 
-- [x] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
+- [ ] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
 
 * With Microphones, Sensors, all cameras physically removed
 
 ## Choosing an Operating System
 
-- [x] [GrapheneOS](https://grapheneos.org/)
+- [ ] [GrapheneOS](https://grapheneos.org/)
 
 ## Virtual vs Physical SIM
 
