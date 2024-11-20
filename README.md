@@ -154,12 +154,18 @@ Options
 
 ### Two-Factor Authentication
 
-- Doesn't offer Cloud Backup
+- No Cloud Backup
 - Backup and Restore Functionallity
+- Password
+- Require no Internet Connection
+- Open Source
 
 - [x] [Aegis Authenticator](https://getaegis.app/)
 - [ ] [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
 - [ ] [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
+
+
+
 
 ## Online Security
 
