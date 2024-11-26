@@ -86,15 +86,12 @@ Options
 
 ### Phone
 
-- [ ] [Koler](https://github.com/Chooloo/koler)
-- [ ] [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer)
 - [ ] [Fossify Phone](https://github.com/FossifyOrg/Phone)
       
 ### Contacts
 
 - Backup & Restore Functionality
 
-- [ ] [Simple Contacts Pro](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 - [ ] [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - [ ] [Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
 
@@ -103,34 +100,27 @@ Options
 - Auto-Delete Messages after X period
 - Encryption
 
-- [ ] [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
+- [ ] [Fossify Messages](https://github.com/FossifyOrg/Messages)
 
 ### Keyboard
 
-- Greek Compatibillity
-- No Dictionary
-
-- [ ] [Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
-- [ ] [AnySoftKeyboard](https://anysoftkeyboard.github.io/)
 - [ ] [Simple Keyboard](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
-- [ ] [HeliBoard](https://github.com/Helium314/HeliBoard)
 - [ ] [FUTO Keyboard](https://github.com/futo-org/android-keyboard/releases)
+
+### Clock
+
+- [ ] []()
+- [ ] []()
 
 ### File Manager
 
-- [ ] [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
-- [ ] [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/)
 - [ ] [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
 - [ ] [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
-- [ ] [AnExplorer](https://github.com/1hakr/AnExplorer)
 - [ ] [Fossify File Manager](https://github.com/FossifyOrg/File-Manager)
 
 ### Launcher
 
-- [ ] [Lawnchair 2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN)
-- [ ] [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 - [ ] [Olauncher](https://github.com/tanujnotes/Olauncher)
-- [ ] [UnLauncher](https://f-droid.org/en/packages/com.jkuester.unlauncher/)
 - [ ] [mLauncher](https://f-droid.org/en/packages/app.mlauncher/)
 - [ ] [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
 
@@ -144,11 +134,109 @@ Options
 
 ## Application Stores
 
-- [ ] [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid)
 - [ ] [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/)
 - [ ] [F-Droid](https://f-droid.org/)
-- [ ] [Accrescent](https://github.com/accrescent/accrescent)
 - [ ] [Obtainium](https://github.com/ImranR98/Obtainium)
+
+## Local Media Access
+
+### PDF Viewer
+
+- [GrapheneOS - PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
+
+### Music Player
+
+- Top-Notch Interface
+- Supports embeded covers
+- Requires no-internet connection
+- Playback from Remote Server
+  
+- [ ] [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
+- [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
+- [ ] [Mucke](https://github.com/moritz-weber/mucke)
+- [ ] [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
+- [ ] [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
+- [ ] [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
+- [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
+- [ ] [Metro](https://github.com/MuntashirAkon/Metro)
+- [ ] [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
+- [ ] [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
+- [ ] [ExoPlayer](https://github.com/google/ExoPlayer)
+- [ ] [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
+
+### Photo Gallery
+
+- Vault - Encryption
+
+- [ ] [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
+- [ ] [FossifyOrg Gallery](https://github.com/FossifyOrg/Gallery)
+- [ ] [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
+- [x] [Gallery](https://github.com/IacobIonut01/Gallery)
+
+### Podcasts
+
+- Abillity to sync preferences (import/export)
+
+- [ ] [AntennaPod](https://github.com/antennapod/AntennaPod)
+- [ ] [Escapepod](https://codeberg.org/y20k/escapepod)
+
+### Book Reader
+
+- Track progress and Highlight between devices. (Syncing)
+- EPUB compatibillity
+
+- [ ] [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
+- [ ] [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+- [ ] [Myne](https://f-droid.org/packages/com.starry.myne/)
+
+## Remove Media
+
+### Music
+
+### Audiobooks
+
+- Syncs Progress
+
+- [x] [Lissen: Audiobookshelf client](https://f-droid.org/en/packages/org.grakovne.lissen/)
+
+### Book Readers
+
+### Video Player
+
+- [ ] [Nova](https://github.com/nova-video-player/aos-AVP)
+- [ ] [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
+
+## Social Media
+
+### Youtube
+
+- Youtube Account compatibillity
+- Sponsorship-Block 
+- Ad-blocking
+
+- [ ] [Clipious](https://f-droid.org/en/packages/com.github.lamarios.clipious/)
+- [ ] [LibreTube](https://f-droid.org/en/packages/com.github.libretube/)
+- [ ] [Odysee](https://f-droid.org/en/packages/com.odysee.floss/)
+- [ ] [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
+- [ ] [PipePipe](https://f-droid.org/en/packages/InfinityLoop1309.NewPipeEnhanced/)
+      
+### Discord
+
+- Voice
+- No Trackers
+
+- [ ] [Aliucord](https://github.com/Aliucord/Aliucord)
+- [ ] [Kizzy - Share Activity](https://github.com/dead8309/Kizzy)
+
+### Instagram
+
+- Only DMs and Profile Searching
+
+- [ ] [Distraction-Free Instagram](https://www.distractionfreeapps.com/)
+
+### Facebook Messenger
+
+- [ ] 
 
 ## Account Security
 
@@ -164,11 +252,10 @@ Options
 - [ ] [Yubico Authenticator](https://f-droid.org/en/packages/com.yubico.yubioath/)
 - [ ] [YubiClip XOR](https://f-droid.org/en/packages/com.craftxbox.yubiclip.xor/)
 
-
-
-
 ## Online Security
 
+- [ ] [Accrescent](https://github.com/accrescent/accrescent)
+      
 ### Firewall
 
 - No use of the VPN (Compatible with VPN)
@@ -210,99 +297,9 @@ Options
 - [ ] [Island](https://island.oasisfeng.com/)
 - [ ] [Shelter](https://gitea.angry.im/PeterCxy/Shelter)
 
-## Media
 
-### Photo Gallery
 
-- Vault - Encryption
 
-- [ ] [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
-- [ ] [FossifyOrg Gallery](https://github.com/FossifyOrg/Gallery)
-- [ ] [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
-- [x] [Gallery](https://github.com/IacobIonut01/Gallery)
-
-### Book Reader
-
-- Track progress and Highlight between devices. (Syncing)
-- EPUB compatibillity
-
-- [ ] [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en&gl=US)
-- [ ] [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
-- [ ] [Myne](https://f-droid.org/packages/com.starry.myne/)
-
-### Podcast Player
-
-- Abillity to sync preferences (import/export)
-
-- [ ] [AntennaPod](https://github.com/antennapod/AntennaPod)
-- [ ] [Escapepod](https://codeberg.org/y20k/escapepod)
-
-### Music Player
-
-- Top-Notch Interface
-- Supports embeded covers
-- Requires no-internet connection
-- Playback from Remote Server
-  
-- [ ] [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
-- [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
-- [ ] [Mucke](https://github.com/moritz-weber/mucke)
-- [ ] [Simple MP](https://f-droid.org/en/packages/com.lighttigerxiv.simple.mp/)
-- [ ] [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US&pli=1)
-- [ ] [FossifyOrg Music Player](https://github.com/FossifyOrg/Music-Player)
-- [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
-- [ ] [Metro](https://github.com/MuntashirAkon/Metro)
-- [ ] [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
-- [ ] [Musify](https://f-droid.org/en/packages/com.gokadzev.musify.fdroid/)
-- [ ] [ExoPlayer](https://github.com/google/ExoPlayer)
-- [ ] [SoundSpice](https://github.com/farshed/SoundSpice-mobile)
-  
-### Video Player
-
-- [ ] [Nova](https://github.com/nova-video-player/aos-AVP)
-- [ ] [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
-
-### Audiobook Player
-
-- Syncs Progress
-
-- [x] [Lissen: Audiobookshelf client](https://f-droid.org/en/packages/org.grakovne.lissen/)
-
-### PDF Viewer
-
-- [GrapheneOS - PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
-
-## Social Media
-
-### Youtube
-
-- Youtube Account compatibillity
-- Sponsorship-Block 
-- Ad-blocking
-
-- [ ] [Clipious](https://f-droid.org/en/packages/com.github.lamarios.clipious/)
-- [ ] [LibreTube](https://f-droid.org/en/packages/com.github.libretube/)
-- [ ] [Odysee](https://f-droid.org/en/packages/com.odysee.floss/)
-- [ ] [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
-- [ ] [PipePipe](https://f-droid.org/en/packages/InfinityLoop1309.NewPipeEnhanced/)
-      
-### Discord
-
-- Voice
-- No Trackers
-
-- [ ] [Aliucord](https://github.com/Aliucord/Aliucord)
-- [ ] [Kizzy - Share Activity](https://github.com/dead8309/Kizzy)
-
-### Instagram
-
-- Only DMs and Profile Searching
-
-- [ ] [Distraction-Free Instagram](https://www.distractionfreeapps.com/)
-
-### Facebook Messenger
-
-- [ ] 
 
 ### Private Online Messaging
 
