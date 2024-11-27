@@ -4,12 +4,6 @@
 
 <br>
 
-- Device
-- Operating System
-- Subscriber Identity Module (SIM)
-- Applications
-- System Settings
-
 ### Device
 
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
