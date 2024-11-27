@@ -24,6 +24,8 @@
 
 ### Applications
 
+<br>
+
 A curated selection of apps designed to prioritize security, privacy and data ownership. Each app in this collection prioritizes transparency, by open-sourcing development. 
 
 **Beware!** Please check the maintenance of these applications before considering installing them. I don't have time to constantly vet them and are merely personal suggestions.
