@@ -9,7 +9,8 @@
 <br>
 
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
-  
+
+<br>
 
 ## Operating System
 
@@ -17,6 +18,7 @@
 
 - [GrapheneOS](https://grapheneos.org/)
 
+<br>
 
 ## Subscriber Identity Module (SIM)
 
