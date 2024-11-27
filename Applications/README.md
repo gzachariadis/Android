@@ -29,7 +29,8 @@
 
 - Social Media
   
-  - Twitter (alternatives)
+  - BlueSky
+  - Mastradon
   - Instagram
   - Youtube
 
