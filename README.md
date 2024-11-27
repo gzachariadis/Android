@@ -8,7 +8,7 @@
 
 <br>
 
-- [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
+- [NitroPhone 5 Pro](https://shop.nitrokey.com/shop/nitrophone-5-pro-712?search=nitrophone#attr=1497,1505,1501)
 
 <br>
 
