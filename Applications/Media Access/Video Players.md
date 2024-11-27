@@ -2,6 +2,7 @@
 
 ### Options
 
-- VLC
-- Nova
-- Next Player
+- [ ] [VLC]()
+- [ ] [Nova](https://github.com/nova-video-player/aos-AVP)
+- [ ] [Next Player](https://f-droid.org/en/packages/dev.anilbeesetti.nextplayer/)
+      
