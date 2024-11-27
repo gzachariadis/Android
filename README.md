@@ -1,18 +1,14 @@
 <h1 align="center">Android</h1>
 
-<p align="center">Configurations for my Android Phone.</p>
+<p align="center">Personalized configurations for my Android Phone.</p>
 
-<p align="center">This is for personal use only. Don't expect frequent updates.</p>
+<br>
 
-## Choosing a Device
+## Device
 
-Options
+- [ ] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
 
-- [ ] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506) *
-
-* With Microphones, Sensors, all cameras physically removed
-
-## Choosing an Operating System
+## Operating System
 
 - [ ] [GrapheneOS](https://grapheneos.org/)
 
@@ -30,110 +26,12 @@ Options
 
 ## Applications
 
-### Specifications 
+A curated selection of apps designed to prioritize security, privacy and data ownership. Each app in this collection prioritizes transparency, by open-sourcing development. 
 
-- Currently Maintained
-- Open-Source
+**Beware!** Please check the maintenance of these applications before considering installing them. I don't have time to constantly vet them and are merely personal suggestions.
 
-<br>
+[Here's the list.](https://github.com/gzachariadis/Android/tree/main/Applications)
 
-- Core Device Functionality
-  
-  - Phone
-  - Contacts
-  - Text Messaging
-  - Keyboard
-  - Clock & Alarm
-  - File Manager
-  - Launcher
-  - Browser 
-  - Application Stores
-
-- Media Access
-  
-  - File Viewer
-  - Music Players
-  - Photo Gallery
-  - Podcasts
-  - Book Readers
-  - Audiobooks
-  - Video Players
-
-- Social Media
-  
-  - Twitter (alternatives)
-  - Instagram
-  - Youtube
-
-- Private Messaging
-  
-  - Signal
-
-- Device Security
-  
-  - Firewall
-  - Virtual Private Network (VPN)
-  - Antivirus & Malware Scanners
-  - Application Managers
-  - Tracker Protection
-  - Permission Managers
-  - Background Activities Manager
-  - Work Profile
-
-- Email
-
-- Calendar
-
-- Notes
-
-- Metadata Manipulation
-
-- Navigation & Maps
-
-- Two-Factor Authentication
-
-- System Maintenance
-
-  - Backup & Recovery
-  - Free-Space Eraser
-  - Notification Management
-
----------------------------------------------------------------------------------------------------------------------------------------------
-
-### Secure Shutdown
-
-- [ ] [DefShutdown](https://schiffer.tech/defshutdown-mobile.html)
-
-
-## Password Manager
-
-- [x] [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
-
-
-### URL Cleaners
-
-- [ ] [Untracker](https://github.com/zhanghai/Untracker)
-- [ ] [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker&hl=en&gl=US)
-
-## Online Security
-
-- [ ] [Accrescent](https://github.com/accrescent/accrescent)
-      
-### Settings
-
-- [SecureTask](https://play.google.com/store/apps/details?id=com.balda.securetask)
-
-## Syncing
-
-- [ ] [Folder-Sync](https://foldersync.io/)
-- [ ] [Syncthing Fork](https://github.com/Catfriend1/syncthing-android)
-
-## Random Apps
-
-- [ ] [Catima](https://catima.app/)
-- [ ] [LABD - Local ADB Shell](https://play.google.com/store/apps/details?id=com.draco.ladb)
-
-<br>
 <br>
 <br>
 
