@@ -2,5 +2,5 @@
 
 ## Options
 
-- Simple Calendar
-- Tuta Calendar
+- [ ] [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+- [ ] [Tuta Calendar](https://tuta.com/calendar)
