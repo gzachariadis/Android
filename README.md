@@ -4,17 +4,23 @@
 
 <br>
 
-## Device
+- Device
+- Operating System
+- Subscriber Identity Module (SIM)
+- Applications
+- System Settings
+
+### Device
 
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
 
-## Operating System
+### Operating System
 
 - [GrapheneOS](https://grapheneos.org/)
 
-## SIM
+### Subscriber Identity Module (SIM)
 
-## Applications
+### Applications
 
 A curated selection of apps designed to prioritize security, privacy and data ownership. Each app in this collection prioritizes transparency, by open-sourcing development. 
 
@@ -22,7 +28,7 @@ A curated selection of apps designed to prioritize security, privacy and data ow
 
 [Here's the list.](https://github.com/gzachariadis/Android/tree/main/Applications)
 
-## System Settings
+### System Settings
 
 <br>
 <br>
