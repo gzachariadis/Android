@@ -46,13 +46,13 @@ A curated selection of apps designed to prioritize security, privacy and data ow
 
 ### Repositories
 
-- [x] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
-- [x] [Android FOSS](https://github.com/offa/android-foss)
-- [x] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
-- [x] [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
-- [x] [Best-FOSS-Apps-for-Android](https://github.com/piyushkumar-prog/Best-FOSS-Apps-for-Android)
-- [x] [Android Privacy Guide](https://github.com/z399/Android-privacy-guide)
-- [x] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
+- [ ] [Awesome Open Source](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects)
+- [ ] [Android FOSS](https://github.com/offa/android-foss)
+- [ ] [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
+- [ ] [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
+- [ ] [Best-FOSS-Apps-for-Android](https://github.com/piyushkumar-prog/Best-FOSS-Apps-for-Android)
+- [ ] [Android Privacy Guide](https://github.com/z399/Android-privacy-guide)
+- [ ] [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 - [ ] [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 - [ ] [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
 - [ ] [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security)
