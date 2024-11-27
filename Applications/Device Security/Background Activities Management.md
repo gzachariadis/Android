@@ -2,5 +2,5 @@
 
 ## Options
 
-- SuperFreezZ
-- Hail
+- [ ] [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
+- [ ] [Hail](https://f-droid.org/en/packages/com.aistra.hail/)
