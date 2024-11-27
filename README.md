@@ -6,11 +6,11 @@
 
 ## Device
 
-- [ ] [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
+- [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
 
 ## Operating System
 
-- [ ] [GrapheneOS](https://grapheneos.org/)
+- [GrapheneOS](https://grapheneos.org/)
 
 ## SIM
 
