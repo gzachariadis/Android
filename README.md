@@ -8,11 +8,17 @@
 
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
 
+<br>
+
 ### Operating System
 
 - [GrapheneOS](https://grapheneos.org/)
 
+<br>
+
 ### Subscriber Identity Module (SIM)
+
+<br>
 
 ### Applications
 
@@ -21,6 +27,8 @@ A curated selection of apps designed to prioritize security, privacy and data ow
 **Beware!** Please check the maintenance of these applications before considering installing them. I don't have time to constantly vet them and are merely personal suggestions.
 
 [Here's the list.](https://github.com/gzachariadis/Android/tree/main/Applications)
+
+<br>
 
 ### System Settings
 
