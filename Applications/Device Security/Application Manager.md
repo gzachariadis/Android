@@ -1,4 +1,4 @@
-<h1 align="center">Application Managers</h1>
+<h1 align="center">Application Manager</h1>
 
 ## Options
 
