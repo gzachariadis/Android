@@ -6,11 +6,15 @@
 
 ### Device
 
+<br>
+
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
 
 <br>
 
 ### Operating System
+
+<br>
 
 - [GrapheneOS](https://grapheneos.org/)
 
@@ -21,6 +25,8 @@
 <br>
 
 ### Applications
+
+<br>
 
 A curated selection of apps designed to prioritize security, privacy and data ownership. Each app in this collection prioritizes transparency, by open-sourcing development. 
 
@@ -33,6 +39,7 @@ A curated selection of apps designed to prioritize security, privacy and data ow
 ### System Settings
 
 <br>
+
 <br>
 
 ## Sources
