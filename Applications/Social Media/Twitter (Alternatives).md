@@ -2,5 +2,5 @@
 
 ### Options
 
-- BlueSky
-- Mastradon
+- [Mastradon]()
+- [BlueSky]()
