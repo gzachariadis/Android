@@ -66,3 +66,4 @@
   - Backup & Recovery
   - Free-Space Eraser
   - Notification Management
+  - ADB Shell
