@@ -2,5 +2,5 @@
 
 ### Options
 
-- Clock You
-- Fossify CLock
+- [ ] [Clock You](https://f-droid.org/en/packages/com.bnyro.clock/) 
+- [ ] [Fossify Clock](https://github.com/FossifyOrg/Clock)
