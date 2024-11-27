@@ -2,6 +2,6 @@
 
 ### Options
 
-- Material Files
-- Simple File Manager
-- Fossify File Manager
+- [ ] [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
+- [ ] [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+- [ ] [Fossify File Manager](https://github.com/FossifyOrg/File-Manager)
