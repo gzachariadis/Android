@@ -36,7 +36,7 @@ A curated selection of apps designed to prioritize security, privacy and data ow
 
 <br>
 
-### System Settings
+## System Settings
 
 <br>
 
