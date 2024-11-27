@@ -2,5 +2,6 @@
 
 ### Options
 
-- F-Droid
-- Obtainium
+- [ ] [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/)
+- [ ] [F-Droid](https://f-droid.org/)
+- [ ] [Obtainium](https://github.com/ImranR98/Obtainium)
