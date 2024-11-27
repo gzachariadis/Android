@@ -2,6 +2,6 @@
 
 ### Options
 
-- Niagara
-- mLauncher
-- Olauncher
+- [ ] [Olauncher](https://github.com/tanujnotes/Olauncher)
+- [ ] [mLauncher](https://f-droid.org/en/packages/app.mlauncher/)
+- [ ] [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
