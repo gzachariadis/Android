@@ -1,6 +1,6 @@
 <h1 align="center">Android</h1>
 
-<p align="center">Personalized configurations for my Android Phone.</p>
+<p align="center">How-to guides on securing an Android device, for regular folks.</p>
 
 <br>
 
