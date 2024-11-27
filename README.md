@@ -4,25 +4,25 @@
 
 <br>
 
-### Device
+## Device
 
 <br>
 
 - [NitroPhone 3a](https://shop.nitrokey.com/shop/product/nitrophone-3a-506)
   
 
-### Operating System
+## Operating System
 
 <br>
 
 - [GrapheneOS](https://grapheneos.org/)
 
 
-### Subscriber Identity Module (SIM)
+## Subscriber Identity Module (SIM)
 
 <br>
 
-### Applications
+## Applications
 
 <br>
 
