@@ -2,4 +2,5 @@
 
 ## Options
 
-- App Manager
+- [ ] [App Manager](https://github.com/MuntashirAkon/AppManager)
+
