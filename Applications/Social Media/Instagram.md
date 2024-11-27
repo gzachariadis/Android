@@ -1,5 +1,8 @@
 <h1 align="center">Instagram</h1>
 
+
+- Only DMs and Profile Searching
+  
 ### Options
 
-- Instagram DF (Distraction-Free)
+- [ ] [Distraction-Free Instagram](https://www.distractionfreeapps.com/)
