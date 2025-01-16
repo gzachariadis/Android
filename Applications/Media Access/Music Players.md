@@ -10,6 +10,5 @@
 
 - [ ] [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [ ] [Fossify Music Player](https://github.com/FossifyOrg/Music-Player)
-- [ ] [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [ ] [Fintunes](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer/)
       
